@@ -48,8 +48,23 @@ def download() -> pd.DataFrame:
     return df
 
 
+def update_readme(df: pd.DataFrame) -> None:
+    logger.info("Updating README.md...")
+
+    lines = [f"## Publications {date.today().isoformat()}"]
+
+    for index, row in df.iterrows():
+        title, link = row["title"], row["link"]
+        lines.append(f"- [{title}]({link})")
+
+    with open("README.md", "w") as f:
+        f.write("\n".join(lines))
+
+
 if __name__ == "__main__":
     df = download()
+    update_readme(df)
+
     if df.empty:
         logger.info("No new publications for today")
     else:
