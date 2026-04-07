@@ -1,0 +1,20 @@
+name: download
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '00 8,20 * * 1-5'
+
+permissions:
+  contents: write
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: ./.github/actions/setup
+      - run: python ./app/run.py
+      - uses: ./.github/actions/push
+        with:
+          message: "chore(publications): updated"
