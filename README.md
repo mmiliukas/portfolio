@@ -1,7 +1,3 @@
-## Publications 2026-04-07
-- [Asset allocation using a Markov process of clustered efficient frontier coefficients states](https://arxiv.org/pdf/2604.03946)
-- [Forecasting Tangency Portfolios and Investing in the Minimum Euclidean Distance Portfolio to Maximize Out-of-Sample Sharpe Ratios](https://arxiv.org/pdf/2604.03948)
-- [$\alpha$-robust utility maximization with intractable claims: A quantile optimization approach](https://arxiv.org/pdf/2604.04649)
-- [Dividend ratcheting and capital injection under the Cram\'er-Lundberg model: Strong solution and optimal strategy](https://arxiv.org/pdf/2604.04641)
-- [Using Machine Learning to Forecast Market Direction with Efficient Frontier Coefficients](https://arxiv.org/pdf/2404.00825)
-- [Beyond Prompting: An Autonomous Framework for Systematic Factor Investing via Agentic AI](https://arxiv.org/pdf/2603.14288)
+## Publications 2026-04-10
+- [Measuring Strategy-Decay Risk: Minimum Regime Performance and the Durability of Systematic Investing](https://arxiv.org/pdf/2604.08356)
+- [Causal PDE-Control Models for Dynamic Portfolio Optimization with Latent Drivers](https://arxiv.org/pdf/2509.09585)
