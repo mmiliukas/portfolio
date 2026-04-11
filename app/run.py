@@ -43,7 +43,8 @@ def download() -> pd.DataFrame:
         )
 
     df = pd.DataFrame.from_records(publications)
-    df = df[df["pubDate"] == date.today().isoformat()]
+    if not df.empty:
+        df = df[df["pubDate"] == date.today().isoformat()]
 
     return df
 
