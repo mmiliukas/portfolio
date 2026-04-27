@@ -92,7 +92,7 @@ async def run(token: str, chat_id: str):
         for _, row in df_diff.iterrows():
             title = html.escape(row["title"])
             link = html.escape(row["link"])
-            publications.append(f"• <a href='{title}'>{link}</a>")
+            publications.append(f"• <a href='{link}'>{title}</a>")
         message = "\n".join(publications)
 
     await telegram.send_message(
