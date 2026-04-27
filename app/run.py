@@ -1,4 +1,5 @@
 import asyncio
+import html
 import logging
 import sys
 from datetime import date, datetime
@@ -87,7 +88,12 @@ async def run(token: str, chat_id: str):
     if df_diff.empty:
         message = "No new publications for now"
     else:
-        message = f"<pre>{df_diff.to_string(index=False)}</pre>"
+        publications = []
+        for _, row in df_diff.iterrows():
+            title = html.escape(row["title"])
+            link = html.escape(row["link"])
+            publications.append(f"• <a href='{title}'>{link}</a>")
+        message = "\n".join(publications)
 
     await telegram.send_message(
         chat_id=chat_id,
