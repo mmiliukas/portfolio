@@ -1,9 +1,12 @@
+import asyncio
 import logging
+import sys
 from datetime import date, datetime
 from xml.etree import ElementTree
 
 import pandas as pd
 import requests
+from telegram import Bot
 
 logging.basicConfig(level=logging.INFO)
 
@@ -62,14 +65,39 @@ def update_readme(df: pd.DataFrame) -> None:
         f.write("\n".join(lines))
 
 
-if __name__ == "__main__":
+async def run(token: str, chat_id: str):
     df = download()
     update_readme(df)
 
     if df.empty:
-        logger.info("No new publications for today")
+        logger.info("No new publications for now")
+        df_diff = pd.DataFrame([])
     else:
         logger.info("Saving publications...")
 
-        df = pd.concat([pd.read_csv(FILE), df])
+        df_previous = pd.read_csv(FILE)
+        df_diff = df[~df["link"].isin(df_previous["link"])]
+
+        df = pd.concat([df_previous, df])
         df.drop_duplicates().to_csv(FILE, index=False)
+
+    telegram = Bot(token=token)
+    today = date.today().isoformat()
+
+    if df_diff.empty:
+        message = "No new publications for now"
+    else:
+        message = f"<pre>{df_diff.to_string(index=False)}</pre>"
+
+    await telegram.send_message(
+        chat_id=chat_id,
+        parse_mode="Html",
+        text=(f"<b>Portfolio {today}</b>\n{message}"),
+    )
+
+
+if __name__ == "__main__":
+    telegram_token = sys.argv[1]
+    chat_id = sys.argv[2]
+
+    asyncio.run(run(telegram_token, chat_id))
