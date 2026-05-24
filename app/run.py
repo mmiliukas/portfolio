@@ -1,13 +1,15 @@
 import asyncio
 import logging
 import sys
+from datetime import date, timedelta
 
 import pandas as pd
 
 # from telegram import Bot
-from .config import PUBLICATIONS_FILE
-from .download_rss import download_rss
-from .update_readme import update_readme
+from config import PUBLICATIONS_FILE
+from download_api import download_api
+from download_rss import download_rss
+from update_readme import update_readme
 
 logging.basicConfig(level=logging.INFO)
 
@@ -15,21 +17,29 @@ logger = logging.getLogger(__name__)
 
 
 async def run(token: str, chat_id: str):
-    df = download_rss()
+    df = pd.read_csv(PUBLICATIONS_FILE)
 
-    update_readme(df)
+    df_rss = download_rss()
+    df_api = download_api(date.today() - timedelta(days=1))
 
-    if df.empty:
-        logger.info("No new publications for now")
-        df_diff = pd.DataFrame([])
-    else:
-        logger.info("Saving publications...")
+    df_final = pd.concat([df, df_rss, df_api])
+    df_final = df_final.drop_duplicates(subset=["link"], keep="first")
+    df_final = df.sort_values(by="pubDate", ascending=True)
 
-        df_previous = pd.read_csv(PUBLICATIONS_FILE)
-        df_diff = df[~df["link"].isin(df_previous["link"])]
+    update_readme(df_final)
+    df_final.to_csv(PUBLICATIONS_FILE, index=False)
 
-        df = pd.concat([df_previous, df])
-        df.drop_duplicates().to_csv(PUBLICATIONS_FILE, index=False)
+    # if df.empty:
+    #     logger.info("No new publications for now")
+    #     df_diff = pd.DataFrame([])
+    # else:
+    #     logger.info("Saving publications...")
+
+    #     df_previous = pd.read_csv(PUBLICATIONS_FILE)
+    #     df_diff = df[~df["link"].isin(df_previous["link"])]
+
+    #     df = pd.concat([df_previous, df])
+    #     df.drop_duplicates().to_csv(PUBLICATIONS_FILE, index=False)
 
     # telegram = Bot(token=token)
     # today = date.today().isoformat()

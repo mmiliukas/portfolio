@@ -5,12 +5,12 @@ from xml.etree import ElementTree
 import pandas as pd
 import requests
 
-from .config import RSS_URL
+from config import RSS_URL
 
 logger = logging.getLogger(__name__)
 
 
-def as_date(value: str):
+def as_date(value: str) -> str:
     dt = datetime.strptime(value, "%a, %d %b %Y %H:%M:%S %z")
     return dt.strftime("%Y-%m-%d")
 
