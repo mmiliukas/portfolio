@@ -3,7 +3,7 @@ name: download
 on:
   workflow_dispatch:
   schedule:
-    - cron: '00 8,20 * * 1-5'
+    - cron: '00 7,19 * * *'
 
 permissions:
   contents: write
