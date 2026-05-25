@@ -1,7 +1,7 @@
 ## Latest 20 publications
 - 2026-05-25: [MadEvolve: Evolutionary Optimization of Trading Systems with Large Language Models](https://arxiv.org/pdf/2605.23007)
-- 2026-05-21: [Continuous Timing Signals for Growth-Defensive Style Allocation: Factor Attribution, Risk Matching, and Out-of-Sample Evidence](https://arxiv.org/pdf/2605.20636)
 - 2026-05-21: [Portfolio Preference Elicitation in Institutional Crossing Markets](https://arxiv.org/pdf/2605.21409)
+- 2026-05-21: [Continuous Timing Signals for Growth-Defensive Style Allocation: Factor Attribution, Risk Matching, and Out-of-Sample Evidence](https://arxiv.org/pdf/2605.20636)
 - 2026-05-20: [Do Better Volatility Forecasts Lead to Better Portfolios? Evidence from Graph Neural Networks](https://arxiv.org/pdf/2605.19278)
 - 2026-05-19: [Deep Reinforcement Learning Framework for Diversified Portfolio Management Across Global Equity Markets](https://arxiv.org/pdf/2605.17307)
 - 2026-05-19: [Optimal payoff under Bregman-Wasserstein divergence constraints](https://arxiv.org/pdf/2411.18397)
@@ -15,7 +15,7 @@
 - 2026-05-12: [Beyond ESG Scores: Learning Dynamic Constraints for Sequential Portfolio Optimization](https://arxiv.org/pdf/2605.09310)
 - 2026-05-12: [The Engineering of Skew: A Path-Dependent Framework for Asymmetric Volatility Management](https://arxiv.org/pdf/2605.09123)
 - 2026-05-06: [Single-Period Portfolio Selection via Information Projection](https://arxiv.org/pdf/2605.03184)
+- 2026-05-05: [Large-Scale Asset Selection via Metric Dependence with Enriched High Frequency Information](https://arxiv.org/pdf/2605.02326)
 - 2026-05-05: [Decision-Induced Ranking Explains Prediction Inflation and Excessive Turnover in SPO-Based Portfolio Optimization](https://arxiv.org/pdf/2605.01176)
 - 2026-05-05: [Identifying Risk Variables From Raw ESG Data Using Its Hierarchical Structure](https://arxiv.org/pdf/2508.18679)
-- 2026-05-05: [Large-Scale Asset Selection via Metric Dependence with Enriched High Frequency Information](https://arxiv.org/pdf/2605.02326)
 - 2026-05-01: [Optimising cryptocurrency portfolios through stable clustering of price correlation networks](https://arxiv.org/pdf/2505.24831)
