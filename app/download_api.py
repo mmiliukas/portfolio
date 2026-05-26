@@ -26,7 +26,7 @@ def download_api(for_date: date) -> pd.DataFrame:
         "sortOrder": "descending",
     }
 
-    resp = requests.get(url, params, timeout=5)
+    resp = requests.get(url, params, timeout=30)
     resp.raise_for_status()
 
     namespaces = {"atom": "http://www.w3.org/2005/Atom"}
