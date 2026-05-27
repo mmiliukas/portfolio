@@ -16,6 +16,6 @@
 - 2026-05-19: [Deep Reinforcement Learning Framework for Diversified Portfolio Management Across Global Equity Markets](https://arxiv.org/pdf/2605.17307)
 - 2026-05-13: [Cost-efficiency in Incomplete Markets](https://arxiv.org/pdf/2206.12511)
 - 2026-05-12: [Quantifying the Risk-Return Tradeoff in Forecasting](https://arxiv.org/pdf/2605.09712)
-- 2026-05-12: [The Engineering of Skew: A Path-Dependent Framework for Asymmetric Volatility Management](https://arxiv.org/pdf/2605.09123)
-- 2026-05-12: [Beyond ESG Scores: Learning Dynamic Constraints for Sequential Portfolio Optimization](https://arxiv.org/pdf/2605.09310)
+- 2026-05-12: [Machine Learning Enhanced Multi-Factor Quantitative Trading: A Cross-Sectional Portfolio Optimization Approach with Bias Correction](https://arxiv.org/pdf/2507.07107)
 - 2026-05-12: [Goal-based portfolio selection with mental accounting](https://arxiv.org/pdf/2506.06654)
+- 2026-05-12: [Beyond ESG Scores: Learning Dynamic Constraints for Sequential Portfolio Optimization](https://arxiv.org/pdf/2605.09310)
