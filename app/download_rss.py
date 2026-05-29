@@ -4,8 +4,7 @@ from xml.etree import ElementTree
 
 import pandas as pd
 import requests
-
-from config import RSS_URL
+from config import HEADERS, RSS_URL
 
 logger = logging.getLogger(__name__)
 
@@ -18,7 +17,7 @@ def as_date(value: str) -> str:
 def download_rss() -> pd.DataFrame:
     logger.info("Downloading RSS feed from arXiv...")
 
-    resp = requests.get(RSS_URL, timeout=5)
+    resp = requests.get(RSS_URL, headers=HEADERS, timeout=30)
     resp.raise_for_status()
 
     tree = ElementTree.fromstring(resp.content)
