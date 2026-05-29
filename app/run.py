@@ -2,7 +2,7 @@ import asyncio
 import html
 import logging
 import sys
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 
 import pandas as pd
 from config import PUBLICATIONS_FILE
@@ -24,7 +24,9 @@ async def run(token: str, chat_id: str):
     df_final = df_final.drop_duplicates(subset=["link"], keep="first")
     df_final = df_final.sort_values(by="pubDate", ascending=True)
 
-    update_readme(df_final)
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    update_readme(df_final, now)
+
     df_final.to_csv(PUBLICATIONS_FILE, index=False)
 
     df_diff = df_final[~df_final["link"].isin(df["link"])]
@@ -44,7 +46,7 @@ async def run(token: str, chat_id: str):
     await telegram.send_message(
         chat_id=chat_id,
         parse_mode="Html",
-        text=(f"<b>Portfolio</b>\n{message}"),
+        text=(f"<b>Portfolio {now}</b>\n{message}"),
         link_preview_options=LinkPreviewOptions(is_disabled=True),
     )
 
