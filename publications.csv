@@ -8,33 +8,33 @@ pubDate,title,link
 2026-04-10,Measuring Strategy-Decay Risk: Minimum Regime Performance and the Durability of Systematic Investing,https://arxiv.org/pdf/2604.08356
 2026-04-10,Causal PDE-Control Models for Dynamic Portfolio Optimization with Latent Drivers,https://arxiv.org/pdf/2509.09585
 2026-04-13,Entropy Regularization under Bayesian Drift Uncertainty,https://arxiv.org/pdf/2602.16862
-2026-04-14,Temperature Anomalies and Climate Physical Risk in Portfolio Construction,https://arxiv.org/pdf/2604.11143
-2026-04-14,"Global Persistence, Local Residual Structure: Forecasting Heterogeneous Investment Panels",https://arxiv.org/pdf/2604.09821
-2026-04-14,On the Structure of Risk Contribution: A Leave-One-Out Decomposition into Inherent and Correlation Risk,https://arxiv.org/pdf/2604.10375
-2026-04-14,Investing Is Compression,https://arxiv.org/pdf/2604.10758
 2026-04-14,Risk-Constrained Kelly for Mutually Exclusive Outcomes: CRRA Support Invariance and Logarithmic One-Dimensional Calibration,https://arxiv.org/pdf/2604.11577
+2026-04-14,Investing Is Compression,https://arxiv.org/pdf/2604.10758
+2026-04-14,"Global Persistence, Local Residual Structure: Forecasting Heterogeneous Investment Panels",https://arxiv.org/pdf/2604.09821
+2026-04-14,Temperature Anomalies and Climate Physical Risk in Portfolio Construction,https://arxiv.org/pdf/2604.11143
+2026-04-14,On the Structure of Risk Contribution: A Leave-One-Out Decomposition into Inherent and Correlation Risk,https://arxiv.org/pdf/2604.10375
 2026-04-16,Extensions to the Wealth Tax Neutrality Framework,https://arxiv.org/pdf/2603.05277
 2026-04-16,"Asset Returns, Portfolio Choice, and Proportional Wealth Taxation",https://arxiv.org/pdf/2603.05264
 2026-04-16,Interpretable Systematic Risk around the Clock,https://arxiv.org/pdf/2604.13458
 2026-04-16,Mean Field Game of Optimal Tracking Portfolio,https://arxiv.org/pdf/2505.01858
-2026-04-17,Factor-Based Conditional Diffusion Model for Contextual Portfolio Optimization,https://arxiv.org/pdf/2509.22088
-2026-04-17,Heterogeneous Returns and Wealth Tax Neutrality: A Fokker-Planck Framework,https://arxiv.org/pdf/2603.16006
-2026-04-17,"Flow Taxes, Stock Taxes, and Portfolio Choice: A Generalised Neutrality Result",https://arxiv.org/pdf/2603.15974
-2026-04-17,Wealth Taxation as a Drift Modification: A Fokker-Planck Approach to Tax Neutrality,https://arxiv.org/pdf/2603.05283
-2026-04-17,Spectral Portfolio Theory: From SGD Weight Matrices to Wealth Dynamics,https://arxiv.org/pdf/2603.09006
 2026-04-17,Multi periods mean-DCVaR optimization: a Recursive Neural Network resolution,https://arxiv.org/pdf/2604.14439
 2026-04-17,Portfolio Optimization Proxies under Label Scarcity and Regime Shifts via Bayesian and Deterministic Students under Semi-Supervised Sandwich Training,https://arxiv.org/pdf/2604.14206
+2026-04-17,Wealth Taxation as a Drift Modification: A Fokker-Planck Approach to Tax Neutrality,https://arxiv.org/pdf/2603.05283
+2026-04-17,Spectral Portfolio Theory: From SGD Weight Matrices to Wealth Dynamics,https://arxiv.org/pdf/2603.09006
+2026-04-17,Heterogeneous Returns and Wealth Tax Neutrality: A Fokker-Planck Framework,https://arxiv.org/pdf/2603.16006
+2026-04-17,Factor-Based Conditional Diffusion Model for Contextual Portfolio Optimization,https://arxiv.org/pdf/2509.22088
+2026-04-17,"Flow Taxes, Stock Taxes, and Portfolio Choice: A Generalised Neutrality Result",https://arxiv.org/pdf/2603.15974
 2026-04-20,Risk-Sensitive Investment Management via Free Energy-Entropy Duality,https://arxiv.org/pdf/2604.15463
 2026-04-21,The Virtue of Sparsity in Complexity,https://arxiv.org/pdf/2604.17166
 2026-04-21,Time-consistent portfolio selection with monotone mean-variance preferences,https://arxiv.org/pdf/2502.11052
 2026-04-21,Topological Risk Parity,https://arxiv.org/pdf/2604.16773
 2026-04-21,Signal or Noise in Multi-Agent LLM-based Stock Recommendations?,https://arxiv.org/pdf/2604.17327
 2026-04-21,Post-Screening Portfolio Selection,https://arxiv.org/pdf/2604.17593
-2026-04-22,"Evaluating Structured Strategy Backtests: Peer Benchmarks, Regime Timing, and Live Performance",https://arxiv.org/pdf/2604.18821
-2026-04-22,Cross-Stock Predictability via LLM-Augmented Semantic Networks,https://arxiv.org/pdf/2604.19476
 2026-04-22,QTMRL: An Agent for Quantitative Trading Decision-Making Based on Multi-Indicator Guided Reinforcement Learning,https://arxiv.org/pdf/2508.20467
-2026-04-22,"Probabilistic Forecasting for Day-ahead Electricity Prices, Battery Trading Strategies and the Economic Evaluation of Predictive Accuracy",https://arxiv.org/pdf/2604.19580
 2026-04-22,End-to-End Large Portfolio Optimization for Variance Minimization with Neural Networks through Covariance Cleaning,https://arxiv.org/pdf/2507.01918
+2026-04-22,"Probabilistic Forecasting for Day-ahead Electricity Prices, Battery Trading Strategies and the Economic Evaluation of Predictive Accuracy",https://arxiv.org/pdf/2604.19580
+2026-04-22,Cross-Stock Predictability via LLM-Augmented Semantic Networks,https://arxiv.org/pdf/2604.19476
+2026-04-22,"Evaluating Structured Strategy Backtests: Peer Benchmarks, Regime Timing, and Live Performance",https://arxiv.org/pdf/2604.18821
 2026-04-27,Predicting Liquidity-Aware Bond Yields using Causal GANs and Deep Reinforcement Learning with LLM Evaluation,https://arxiv.org/pdf/2502.17011
 2026-04-28,Beyond Picking Winners: Correlation-Driven Tail Risk in Venture Capital Portfolio Construction,https://arxiv.org/pdf/2604.23087
 2026-04-28,Beyond De Prado and Cotton: Hierarchical and Iterative Methods for General Mean-Variance Portfolios,https://arxiv.org/pdf/2604.23833
@@ -42,20 +42,20 @@ pubDate,title,link
 2026-04-30,From Hypotheses to Factors: Constrained LLM Agents in Cryptocurrency Markets,https://arxiv.org/pdf/2604.26747
 2026-04-30,Improving Bayesian Optimization for Portfolio Management with an Adaptive Scheduling,https://arxiv.org/pdf/2504.13529
 2026-04-30,Auditing Marketing Budget Allocation with Hindsight Regret,https://arxiv.org/pdf/2604.25977
-2026-05-01,A Levered ETF Anomaly Explained,https://arxiv.org/pdf/2604.27287
-2026-05-01,Optimal Option Portfolios for Skew-Elliptical t Returns,https://arxiv.org/pdf/2601.07991
-2026-05-01,Optimising cryptocurrency portfolios through stable clustering of price correlation networks,https://arxiv.org/pdf/2505.24831
-2026-05-01,Learning to Spend: Model Predictive Control for Budgeting under Non-Stationary Returns,https://arxiv.org/pdf/2604.27186
 2026-05-01,Sampler-Robust Optimization under Generative Models,https://arxiv.org/pdf/2604.27447
+2026-05-01,Learning to Spend: Model Predictive Control for Budgeting under Non-Stationary Returns,https://arxiv.org/pdf/2604.27186
+2026-05-01,Optimising cryptocurrency portfolios through stable clustering of price correlation networks,https://arxiv.org/pdf/2505.24831
+2026-05-01,Optimal Option Portfolios for Skew-Elliptical t Returns,https://arxiv.org/pdf/2601.07991
+2026-05-01,A Levered ETF Anomaly Explained,https://arxiv.org/pdf/2604.27287
 2026-05-05,Identifying Risk Variables From Raw ESG Data Using Its Hierarchical Structure,https://arxiv.org/pdf/2508.18679
 2026-05-05,Large-Scale Asset Selection via Metric Dependence with Enriched High Frequency Information,https://arxiv.org/pdf/2605.02326
 2026-05-05,Decision-Induced Ranking Explains Prediction Inflation and Excessive Turnover in SPO-Based Portfolio Optimization,https://arxiv.org/pdf/2605.01176
 2026-05-06,Single-Period Portfolio Selection via Information Projection,https://arxiv.org/pdf/2605.03184
+2026-05-12,Beyond ESG Scores: Learning Dynamic Constraints for Sequential Portfolio Optimization,https://arxiv.org/pdf/2605.09310
+2026-05-12,Quantifying the Risk-Return Tradeoff in Forecasting,https://arxiv.org/pdf/2605.09712
+2026-05-12,Goal-based portfolio selection with mental accounting,https://arxiv.org/pdf/2506.06654
 2026-05-12,Machine Learning Enhanced Multi-Factor Quantitative Trading: A Cross-Sectional Portfolio Optimization Approach with Bias Correction,https://arxiv.org/pdf/2507.07107
 2026-05-12,The Engineering of Skew: A Path-Dependent Framework for Asymmetric Volatility Management,https://arxiv.org/pdf/2605.09123
-2026-05-12,Quantifying the Risk-Return Tradeoff in Forecasting,https://arxiv.org/pdf/2605.09712
-2026-05-12,Beyond ESG Scores: Learning Dynamic Constraints for Sequential Portfolio Optimization,https://arxiv.org/pdf/2605.09310
-2026-05-12,Goal-based portfolio selection with mental accounting,https://arxiv.org/pdf/2506.06654
 2026-05-13,Cost-efficiency in Incomplete Markets,https://arxiv.org/pdf/2206.12511
 2026-05-19,A Penalty-Free Pipeline for Direct Quantum-Annealer Portfolio Optimization,https://arxiv.org/pdf/2605.17628
 2026-05-19,Where the Quantum Lives in D-Wave Hybrid Portfolio Optimization,https://arxiv.org/pdf/2605.17623
@@ -66,9 +66,9 @@ pubDate,title,link
 2026-05-21,"Continuous Timing Signals for Growth-Defensive Style Allocation: Factor Attribution, Risk Matching, and Out-of-Sample Evidence",https://arxiv.org/pdf/2605.20636
 2026-05-21,Portfolio Preference Elicitation in Institutional Crossing Markets,https://arxiv.org/pdf/2605.21409
 2026-05-25,MadEvolve: Evolutionary Optimization of Trading Systems with Large Language Models,https://arxiv.org/pdf/2605.23007
-2026-05-26,"A Unified Theory of Ownership Concentration, Overlap, and Dependence",https://arxiv.org/pdf/2605.26740v1
-2026-05-26,Variable Clustering via Distributionally Robust Nodewise Regression,https://arxiv.org/pdf/2212.07944
 2026-05-26,Market Regime Council for Dynamic Credit Assignment in Multi-Agent LLM Decision Systems,https://arxiv.org/pdf/2605.24490
+2026-05-26,Variable Clustering via Distributionally Robust Nodewise Regression,https://arxiv.org/pdf/2212.07944
+2026-05-26,"A Unified Theory of Ownership Concentration, Overlap, and Dependence",https://arxiv.org/pdf/2605.26740v1
 2026-05-27,Regime-Based Portfolio Allocation Using Hidden Markov Models and Reinforcement Learning,https://arxiv.org/pdf/2605.27848v1
 2026-05-27,Carbon-Sensitive Fund Construction and Hedging for Green Unit-Linked Life Insurance,https://arxiv.org/pdf/2509.05676
 2026-05-27,"Stochastic Volatility, Jumps, and Rates: A Unified Framework for Option Pricing and Term-Structure Simulation",https://arxiv.org/pdf/2605.27945v1
@@ -76,17 +76,17 @@ pubDate,title,link
 2026-05-27,From Headlines to Holdings: Deep Learning for Smarter Portfolio Decisions,https://arxiv.org/pdf/2509.24144
 2026-05-27,Deep Learning Forecasting of the U.S. Aggregate Bond Index,https://arxiv.org/pdf/2605.27977v1
 2026-05-27,"A Unified Theory of Ownership Concentration, Overlap, and Dependence",https://arxiv.org/pdf/2605.26740
-2026-05-28,Deep Learning Forecasting of the U.S. Aggregate Bond Index,https://arxiv.org/pdf/2605.27977
-2026-05-28,Regime-Based Portfolio Allocation Using Hidden Markov Models and Reinforcement Learning,https://arxiv.org/pdf/2605.27848
-2026-05-28,"Stochastic Volatility, Jumps, and Rates: A Unified Framework for Option Pricing and Term-Structure Simulation",https://arxiv.org/pdf/2605.27945
-2026-05-28,"PortBench: A Correlation-Aware, Full-Pipeline Benchmark for LLM-Driven Portfolio Management",https://arxiv.org/pdf/2605.27887
-2026-05-28,Constructing a Portfolio Optimization Benchmark Framework for Evaluating Large Language Models,https://arxiv.org/pdf/2603.09301
-2026-05-28,Investor risk profiles of large language models,https://arxiv.org/pdf/2603.09303
 2026-05-28,From Classical Optimization to Bayesian Integration: A Comprehensive Analysis of Systematic Portfolio Management,https://arxiv.org/pdf/2605.29413v1
+2026-05-28,Investor risk profiles of large language models,https://arxiv.org/pdf/2603.09303
+2026-05-28,Constructing a Portfolio Optimization Benchmark Framework for Evaluating Large Language Models,https://arxiv.org/pdf/2603.09301
+2026-05-28,"Stochastic Volatility, Jumps, and Rates: A Unified Framework for Option Pricing and Term-Structure Simulation",https://arxiv.org/pdf/2605.27945
+2026-05-28,Regime-Based Portfolio Allocation Using Hidden Markov Models and Reinforcement Learning,https://arxiv.org/pdf/2605.27848
+2026-05-28,Deep Learning Forecasting of the U.S. Aggregate Bond Index,https://arxiv.org/pdf/2605.27977
+2026-05-28,"PortBench: A Correlation-Aware, Full-Pipeline Benchmark for LLM-Driven Portfolio Management",https://arxiv.org/pdf/2605.27887
 2026-05-29,Financially Guided Deep Portfolio Optimization,https://arxiv.org/pdf/2605.28853
 2026-05-29,From Classical Optimization to Bayesian Integration: A Comprehensive Analysis of Systematic Portfolio Management,https://arxiv.org/pdf/2605.29413
 2026-06-01,"Distributional Portfolio Optimization (DPO): A Unified Framework for Distributions over Weights, Returns, and Parameters",https://arxiv.org/pdf/2605.30464
 2026-06-01,Post Selection Estimation of Sharpe Ratios,https://arxiv.org/pdf/2606.01650v1
-2026-06-02,On Unified Adaptive Black-Litterman Mean-Variance Portfolio Management,https://arxiv.org/pdf/2307.03391
 2026-06-02,Regime-Adaptive Continual Learning for Portfolio Management,https://arxiv.org/pdf/2606.00143
+2026-06-02,On Unified Adaptive Black-Litterman Mean-Variance Portfolio Management,https://arxiv.org/pdf/2307.03391
 2026-06-02,Post Selection Estimation of Sharpe Ratios,https://arxiv.org/pdf/2606.01650
