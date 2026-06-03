@@ -18,6 +18,9 @@ async def run(token: str, chat_id: str):
     df = pd.read_csv(PUBLICATIONS_FILE)
 
     df_rss = download_rss()
+
+    await asyncio.sleep(10)
+
     df_api = download_api(date.today() - timedelta(days=1))
 
     df_final = pd.concat([df, df_rss, df_api])
