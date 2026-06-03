@@ -23,7 +23,7 @@ async def run(token: str, chat_id: str):
 
     try:
         df_rss = download_rss()
-        status_rss = "🟢 RSS feed downloaded successfully. {len(df_rss)} publications found."
+        status_rss = f"🟢 RSS feed downloaded successfully. {len(df_rss)} publications found."
     except Exception as e:
         logging.error(f"Error occurred while downloading RSS data: {e}")
         status_rss = f"🔴 RSS feed downloaded failed. {e}"
@@ -33,7 +33,7 @@ async def run(token: str, chat_id: str):
 
     try:
         df_api = download_api(date.today() - timedelta(days=1))
-        status_api = "🟢 API data downloaded successfully. {len(df_api)} publications found."
+        status_api = f"🟢 API data downloaded successfully. {len(df_api)} publications found."
     except Exception as e:
         logging.error(f"Error occurred while downloading API data: {e}")
         status_api = f"🔴 API data downloaded failed. {e}"
@@ -65,7 +65,7 @@ async def run(token: str, chat_id: str):
     await telegram.send_message(
         chat_id=chat_id,
         parse_mode="Html",
-        text=(f"<b>Portfolio {now}</b>{status_rss}\n{status_api}\n{message}"),
+        text=(f"<b>Portfolio {now}</b>\n{status_rss}\n{status_api}\n{message}"),
         link_preview_options=LinkPreviewOptions(is_disabled=True),
     )
 
