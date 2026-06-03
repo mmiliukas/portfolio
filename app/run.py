@@ -14,14 +14,30 @@ from update_readme import update_readme
 logging.basicConfig(level=logging.INFO)
 
 
+def empty_df() -> pd.DataFrame:
+    return pd.DataFrame({"pubDate": [], "title": [], "link": []})
+
+
 async def run(token: str, chat_id: str):
     df = pd.read_csv(PUBLICATIONS_FILE)
 
-    df_rss = download_rss()
+    try:
+        df_rss = download_rss()
+        status_rss = "RSS feed downloaded successfully. {len(df_rss)} publications found."
+    except Exception as e:
+        logging.error(f"Error occurred while downloading RSS data: {e}")
+        status_rss = f"RSS feed downloaded failed. {e}"
+        df_rss = empty_df()
 
     await asyncio.sleep(10)
 
-    df_api = download_api(date.today() - timedelta(days=1))
+    try:
+        df_api = download_api(date.today() - timedelta(days=1))
+        status_api = "API data downloaded successfully. {len(df_api)} publications found."
+    except Exception as e:
+        logging.error(f"Error occurred while downloading API data: {e}")
+        status_api = f"API data downloaded failed. {e}"
+        df_api = empty_df()
 
     df_final = pd.concat([df, df_rss, df_api])
     df_final = df_final.drop_duplicates(subset=["link"], keep="first")
@@ -49,7 +65,7 @@ async def run(token: str, chat_id: str):
     await telegram.send_message(
         chat_id=chat_id,
         parse_mode="Html",
-        text=(f"<b>Portfolio {now}</b>\n{message}"),
+        text=(f"<b>Portfolio {now}</b>{status_rss}\n{status_api}\n{message}"),
         link_preview_options=LinkPreviewOptions(is_disabled=True),
     )
 
