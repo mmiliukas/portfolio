@@ -23,20 +23,20 @@ async def run(token: str, chat_id: str):
 
     try:
         df_rss = download_rss()
-        status_rss = "RSS feed downloaded successfully. {len(df_rss)} publications found."
+        status_rss = "🟢 RSS feed downloaded successfully. {len(df_rss)} publications found."
     except Exception as e:
         logging.error(f"Error occurred while downloading RSS data: {e}")
-        status_rss = f"RSS feed downloaded failed. {e}"
+        status_rss = f"🔴 RSS feed downloaded failed. {e}"
         df_rss = empty_df()
 
     await asyncio.sleep(10)
 
     try:
         df_api = download_api(date.today() - timedelta(days=1))
-        status_api = "API data downloaded successfully. {len(df_api)} publications found."
+        status_api = "🟢 API data downloaded successfully. {len(df_api)} publications found."
     except Exception as e:
         logging.error(f"Error occurred while downloading API data: {e}")
-        status_api = f"API data downloaded failed. {e}"
+        status_api = f"🔴 API data downloaded failed. {e}"
         df_api = empty_df()
 
     df_final = pd.concat([df, df_rss, df_api])
