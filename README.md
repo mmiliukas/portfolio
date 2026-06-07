@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-06-07 08:58:14)
+## Latest 20 publications (as of 2026-06-07 20:13:32)
 
 - 2026-06-04: [Anticipatory Portfolio Optimization](https://arxiv.org/pdf/2606.04258)
 - 2026-06-03: [Infinite Horizon Optimal Consumption: Intertemporal Hedging under Epstein-Zin Preferences](https://arxiv.org/pdf/2606.02945)
@@ -9,8 +9,8 @@
 - 2026-06-02: [Post Selection Estimation of Sharpe Ratios](https://arxiv.org/pdf/2606.01650)
 - 2026-06-01: [Post Selection Estimation of Sharpe Ratios](https://arxiv.org/pdf/2606.01650v1)
 - 2026-06-01: [Distributional Portfolio Optimization (DPO): A Unified Framework for Distributions over Weights, Returns, and Parameters](https://arxiv.org/pdf/2605.30464)
-- 2026-05-29: [Financially Guided Deep Portfolio Optimization](https://arxiv.org/pdf/2605.28853)
 - 2026-05-29: [From Classical Optimization to Bayesian Integration: A Comprehensive Analysis of Systematic Portfolio Management](https://arxiv.org/pdf/2605.29413)
+- 2026-05-29: [Financially Guided Deep Portfolio Optimization](https://arxiv.org/pdf/2605.28853)
 - 2026-05-28: [Regime-Based Portfolio Allocation Using Hidden Markov Models and Reinforcement Learning](https://arxiv.org/pdf/2605.27848)
 - 2026-05-28: [Investor risk profiles of large language models](https://arxiv.org/pdf/2603.09303)
 - 2026-05-28: [Stochastic Volatility, Jumps, and Rates: A Unified Framework for Option Pricing and Term-Structure Simulation](https://arxiv.org/pdf/2605.27945)
@@ -18,5 +18,5 @@
 - 2026-05-28: [PortBench: A Correlation-Aware, Full-Pipeline Benchmark for LLM-Driven Portfolio Management](https://arxiv.org/pdf/2605.27887)
 - 2026-05-28: [Constructing a Portfolio Optimization Benchmark Framework for Evaluating Large Language Models](https://arxiv.org/pdf/2603.09301)
 - 2026-05-28: [From Classical Optimization to Bayesian Integration: A Comprehensive Analysis of Systematic Portfolio Management](https://arxiv.org/pdf/2605.29413v1)
-- 2026-05-27: [Regime-Based Portfolio Allocation Using Hidden Markov Models and Reinforcement Learning](https://arxiv.org/pdf/2605.27848v1)
-- 2026-05-27: [A Unified Theory of Ownership Concentration, Overlap, and Dependence](https://arxiv.org/pdf/2605.26740)
+- 2026-05-27: [Deep Learning Forecasting of the U.S. Aggregate Bond Index](https://arxiv.org/pdf/2605.27977v1)
+- 2026-05-27: [PortBench: A Correlation-Aware, Full-Pipeline Benchmark for LLM-Driven Portfolio Management](https://arxiv.org/pdf/2605.27887v1)
