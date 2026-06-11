@@ -9,7 +9,7 @@ filelock==3.29.1
 h11==0.16.0
 httpcore==1.0.9
 httpx==0.28.1
-idna==3.16
+idna==3.17
 license-expression==30.4.4
 markdown-it-py==4.2.0
 mdurl==0.1.2
