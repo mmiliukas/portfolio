@@ -26,7 +26,7 @@ py-serializable==2.1.0
 Pygments==2.20.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
-python-telegram-bot==22.7
+python-telegram-bot==22.8
 requests==2.34.2
 rich==15.0.0
 six==1.17.0
