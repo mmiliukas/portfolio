@@ -1,9 +1,9 @@
-## Latest 20 publications (as of 2026-06-27 08:37:26)
+## Latest 20 publications (as of 2026-06-27 20:09:36)
 
 - 2026-06-26: [Optimal Investment and Consumption Strategies with General Cost Structure under CRRA Utility](https://arxiv.org/pdf/2304.07672)
+- 2026-06-26: [A sharp order-three obstruction to the aggregation of conditional price-of-risk attribution](https://arxiv.org/pdf/2606.26835)
 - 2026-06-26: [Data-Driven Duration Management -- Term Structure Forecasting Using Machine Learning](https://arxiv.org/pdf/2606.26815)
 - 2026-06-26: [Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns](https://arxiv.org/pdf/2606.26625)
-- 2026-06-26: [A sharp order-three obstruction to the aggregation of conditional price-of-risk attribution](https://arxiv.org/pdf/2606.26835)
 - 2026-06-25: [A sharp order-three obstruction to the aggregation of conditional price-of-risk attribution](https://arxiv.org/pdf/2606.26835v1)
 - 2026-06-25: [Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns](https://arxiv.org/pdf/2606.26625v1)
 - 2026-06-25: [Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets](https://arxiv.org/pdf/2606.25811)
@@ -18,5 +18,5 @@
 - 2026-06-23: [Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/pdf/2606.23367)
 - 2026-06-22: [Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/pdf/2606.23367v1)
 - 2026-06-17: [Model Risk in Credit Portfolio Models](https://arxiv.org/pdf/2111.14631)
-- 2026-06-16: [Two Sides of Schur Damping: High-Dimensional Pseudo-Likelihoods and Portfolio Allocation](https://arxiv.org/pdf/2606.14798)
 - 2026-06-16: [Sharpe Ratio and Return-VaR Ratio Maximization for Option Portfolios with Skew-Elliptical $t$ Underlying Returns](https://arxiv.org/pdf/2606.17032)
+- 2026-06-16: [Two Sides of Schur Damping: High-Dimensional Pseudo-Likelihoods and Portfolio Allocation](https://arxiv.org/pdf/2606.14798)
