@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-07-01 09:49:54)
+## Latest 20 publications (as of 2026-07-01 20:48:07)
 
 - 2026-06-30: [CLQT: A Closed-Loop, Cost-Aware, Strategy-Consistent Benchmark for Diagnostic Evaluation of LLM Portfolio-Management Agents](https://arxiv.org/pdf/2606.29771)
 - 2026-06-29: [CLQT: A Closed-Loop, Cost-Aware, Strategy-Consistent Benchmark for Diagnostic Evaluation of LLM Portfolio-Management Agents](https://arxiv.org/pdf/2606.29771v1)
@@ -15,8 +15,8 @@
 - 2026-06-24: [Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets](https://arxiv.org/pdf/2606.25811v1)
 - 2026-06-24: [Machine Learning Classification and Portfolio Construction: Does the Loss Function Matter?](https://arxiv.org/pdf/2108.02283)
 - 2026-06-24: [A Two-Stage Decision Support System for Sustainability-Aware Long Short Portfolio Optimization](https://arxiv.org/pdf/2606.25696v1)
-- 2026-06-23: [Revisiting the Excess Volatility Puzzle Through the Lens of the Chiarella Model](https://arxiv.org/pdf/2505.07820)
 - 2026-06-23: [Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/pdf/2606.23367)
-- 2026-06-23: [Well Posedness of Utility Maximization Problems Under Partial Information in a Market with Gaussian Drift](https://arxiv.org/pdf/2205.08614)
+- 2026-06-23: [Revisiting the Excess Volatility Puzzle Through the Lens of the Chiarella Model](https://arxiv.org/pdf/2505.07820)
 - 2026-06-23: [Reinforcement Learning for Risk-Sensitive Investment Management: a Free Energy--Entropy Duality Approach](https://arxiv.org/pdf/2606.20903)
+- 2026-06-23: [Well Posedness of Utility Maximization Problems Under Partial Information in a Market with Gaussian Drift](https://arxiv.org/pdf/2205.08614)
 - 2026-06-22: [Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/pdf/2606.23367v1)
