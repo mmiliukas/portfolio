@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-07-02 08:58:23)
+## Latest 20 publications (as of 2026-07-02 20:19:09)
 
 - 2026-07-02: [Exponential Hedging for the Ornstein-Uhlenbeck Process in the Presence of Linear Price Impact](https://arxiv.org/pdf/2509.25472)
 - 2026-07-02: [End-to-End Parametric Portfolio Policies for Cross-Asset Futures Timing: When Do AI Models Beat Simple Rules?](https://arxiv.org/pdf/2607.00475)
@@ -18,5 +18,5 @@
 - 2026-06-24: [Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets](https://arxiv.org/pdf/2606.25811v1)
 - 2026-06-24: [Machine Learning Classification and Portfolio Construction: Does the Loss Function Matter?](https://arxiv.org/pdf/2108.02283)
 - 2026-06-24: [A Two-Stage Decision Support System for Sustainability-Aware Long Short Portfolio Optimization](https://arxiv.org/pdf/2606.25696v1)
-- 2026-06-23: [Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing](https://arxiv.org/pdf/2606.23367)
-- 2026-06-23: [Well Posedness of Utility Maximization Problems Under Partial Information in a Market with Gaussian Drift](https://arxiv.org/pdf/2205.08614)
+- 2026-06-23: [Reinforcement Learning for Risk-Sensitive Investment Management: a Free Energy--Entropy Duality Approach](https://arxiv.org/pdf/2606.20903)
+- 2026-06-23: [Revisiting the Excess Volatility Puzzle Through the Lens of the Chiarella Model](https://arxiv.org/pdf/2505.07820)
