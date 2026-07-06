@@ -1,9 +1,9 @@
-## Latest 20 publications (as of 2026-07-06 10:24:58)
+## Latest 20 publications (as of 2026-07-06 20:53:16)
 
 - 2026-07-03: [Is Trend Still Your Friend?: A Microstructural Account of the Demise of Short-Term Trend-Following](https://arxiv.org/pdf/2607.01550)
+- 2026-07-02: [Exponential Hedging for the Ornstein-Uhlenbeck Process in the Presence of Linear Price Impact](https://arxiv.org/pdf/2509.25472)
 - 2026-07-02: [End-to-End Parametric Portfolio Policies for Cross-Asset Futures Timing: When Do AI Models Beat Simple Rules?](https://arxiv.org/pdf/2607.00475)
 - 2026-07-02: [Is Trend Still Your Friend?: A Microstructural Account of the Demise of Short-Term Trend-Following](https://arxiv.org/pdf/2607.01550v1)
-- 2026-07-02: [Exponential Hedging for the Ornstein-Uhlenbeck Process in the Presence of Linear Price Impact](https://arxiv.org/pdf/2509.25472)
 - 2026-07-01: [End-to-End Parametric Portfolio Policies for Cross-Asset Futures Timing: When Do AI Models Beat Simple Rules?](https://arxiv.org/pdf/2607.00475v1)
 - 2026-06-30: [CLQT: A Closed-Loop, Cost-Aware, Strategy-Consistent Benchmark for Diagnostic Evaluation of LLM Portfolio-Management Agents](https://arxiv.org/pdf/2606.29771)
 - 2026-06-29: [The Decision Geometry of Covariance Estimation for the Global Minimum-Variance Portfolio under Heavy Tails](https://arxiv.org/pdf/2606.27462)
@@ -18,5 +18,5 @@
 - 2026-06-25: [Data-Driven Duration Management -- Term Structure Forecasting Using Machine Learning](https://arxiv.org/pdf/2606.26815v1)
 - 2026-06-25: [A sharp order-three obstruction to the aggregation of conditional price-of-risk attribution](https://arxiv.org/pdf/2606.26835v1)
 - 2026-06-24: [Machine Learning Classification and Portfolio Construction: Does the Loss Function Matter?](https://arxiv.org/pdf/2108.02283)
-- 2026-06-24: [A Two-Stage Decision Support System for Sustainability-Aware Long Short Portfolio Optimization](https://arxiv.org/pdf/2606.25696v1)
 - 2026-06-24: [Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets](https://arxiv.org/pdf/2606.25811v1)
+- 2026-06-24: [A Two-Stage Decision Support System for Sustainability-Aware Long Short Portfolio Optimization](https://arxiv.org/pdf/2606.25696v1)
