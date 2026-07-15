@@ -1,10 +1,10 @@
-## Latest 20 publications (as of 2026-07-15 08:12:26)
+## Latest 20 publications (as of 2026-07-15 20:10:13)
 
 - 2026-07-14: [Universal portfolios in continuous time: an approach in pathwise It\^o calculus](https://arxiv.org/pdf/2504.11881)
-- 2026-07-13: [Objective and subjective entropy measures of portfolio suboptimality](https://arxiv.org/pdf/2607.09505)
-- 2026-07-13: [A novel robust mixed integer linear programming model for index tracking problem under no rebalancing: heuristic optimization approach](https://arxiv.org/pdf/2607.09556)
 - 2026-07-13: [Large-Scale Portfolio Optimization Problem Under Cardinality Constraint With Enhanced Multi-Objective Evolutionary Algorithms](https://arxiv.org/pdf/2607.09566)
 - 2026-07-13: [Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs](https://arxiv.org/pdf/2607.09121)
+- 2026-07-13: [Objective and subjective entropy measures of portfolio suboptimality](https://arxiv.org/pdf/2607.09505)
+- 2026-07-13: [A novel robust mixed integer linear programming model for index tracking problem under no rebalancing: heuristic optimization approach](https://arxiv.org/pdf/2607.09556)
 - 2026-07-10: [Low-Turnover Rebalancing for Sparse Index Tracking](https://arxiv.org/pdf/2512.22109)
 - 2026-07-09: [Dynamic Causal Portfolio Choice: Hedging the Rotation of the Common-Driver Manifold](https://arxiv.org/pdf/2607.06702)
 - 2026-07-08: [From Gravity to Confinement: Wealth Redistribution as Optimal Drift Design in the Fokker-Planck Framework](https://arxiv.org/pdf/2607.06153)
