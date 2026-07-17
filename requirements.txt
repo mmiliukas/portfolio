@@ -5,7 +5,7 @@ certifi==2026.6.17
 charset-normalizer==3.4.7
 cyclonedx-python-lib==11.11.0
 defusedxml==0.7.1
-filelock==3.29.4
+filelock==3.29.5
 h11==0.16.0
 httpcore==1.0.9
 httpx==0.28.1
