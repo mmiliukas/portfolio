@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-07-22 20:12:05)
+## Latest 20 publications (as of 2026-07-23 08:32:05)
 
 - 2026-07-22: [Observable Matrix Dynamics of Stocks](https://arxiv.org/pdf/2607.19005)
 - 2026-07-22: [Mixing-Law Uncertainty in Multivariate Normal Mean-Variance Mixtures: Semi-parametric Estimation and Robust Cumulative-Prospect Decisions](https://arxiv.org/pdf/2607.18813)
