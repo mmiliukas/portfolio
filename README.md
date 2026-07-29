@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-07-28 20:16:09)
+## Latest 20 publications (as of 2026-07-29 08:42:02)
 
 - 2026-07-28: [Optimal Control with Expectation Constraint in a Smooth Boundary Case](https://arxiv.org/pdf/2607.24114)
 - 2026-07-28: [Neural Network-Driven Volatility Drag Mitigation under Aggressive Leverage](https://arxiv.org/pdf/2607.23068)
@@ -12,8 +12,8 @@
 - 2026-07-21: [FinBench: Time-Gated Calibration and Uncertainty Benchmarking for Agentic Financial Forecasting](https://arxiv.org/pdf/2607.16229)
 - 2026-07-21: [Portfolio Optimization under Heavy Tails and Asymmetric Volatility: Evidence from Taiwan-Exposed ETFs](https://arxiv.org/pdf/2607.16450)
 - 2026-07-21: [AlphaZeroBeta: Deep Reinforcement Learning for Market-Neutral Portfolios](https://arxiv.org/pdf/2607.18001)
-- 2026-07-20: [A comparison of the effectiveness of alternative DC and CDC designs in a UK market](https://arxiv.org/pdf/2504.16892)
 - 2026-07-20: [AlphaZeroBeta: Deep Reinforcement Learning for Market-Neutral Portfolios](https://arxiv.org/pdf/2607.18001v1)
+- 2026-07-20: [A comparison of the effectiveness of alternative DC and CDC designs in a UK market](https://arxiv.org/pdf/2504.16892)
 - 2026-07-17: [SciPhy Reinforcement Learning for Portfolio Optimization](https://arxiv.org/pdf/2607.15195)
 - 2026-07-16: [Mean-Field Price Formation on Trees with Multi-Population and Non-Rational Agents](https://arxiv.org/pdf/2510.11261)
 - 2026-07-16: [SciPhy Reinforcement Learning for Portfolio Optimization](https://arxiv.org/pdf/2607.15195v1)
