@@ -17,7 +17,7 @@ msgpack==1.2.1
 numpy==2.5.1
 packageurl-python==0.17.6
 packaging==26.2
-pandas==3.0.3
+pandas==3.0.5
 pip-api==0.0.34
 pip-requirements-parser==32.0.1
 pip_audit==2.10.1
