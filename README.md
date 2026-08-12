@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-08-12 07:25:54)
+## Latest 20 publications (as of 2026-08-12 20:00:35)
 
 - 2026-08-12: [Objective-oriented quantitative investment: A specification-driven framework for automated synthesis of trading strategy pipelines](https://arxiv.org/pdf/2608.10410)
 - 2026-08-12: [Beyond Cash Flows: A Multi-Agent AI Framework for Valuing Clinical-Stage, Cross-Border Biotechnology](https://arxiv.org/pdf/2608.10175)
@@ -12,9 +12,9 @@
 - 2026-08-06: [Portfolio Allocation under Heterogeneous Scales and Multifractality](https://arxiv.org/pdf/2608.04987)
 - 2026-08-06: [Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation](https://arxiv.org/pdf/2507.07358)
 - 2026-08-06: [Optimal Life Insurance Decision in Mean-Variance DC Management with Mortality Improvements](https://arxiv.org/pdf/2608.04532)
-- 2026-08-05: [Mandate without Managers: Automated Market Makers as Verifiable Portfolio Products](https://arxiv.org/pdf/2608.02917)
 - 2026-08-05: [Portfolio Allocation under Heterogeneous Scales and Multifractality](https://arxiv.org/pdf/2608.04987v1)
 - 2026-08-05: [Optimal Life Insurance Decision in Mean-Variance DC Management with Mortality Improvements](https://arxiv.org/pdf/2608.04532v1)
+- 2026-08-05: [Mandate without Managers: Automated Market Makers as Verifiable Portfolio Products](https://arxiv.org/pdf/2608.02917)
 - 2026-08-04: [AI and Exchange Rate Predictability](https://arxiv.org/pdf/2608.00761)
 - 2026-08-04: [AI Financial Advice: Supply, Demand, and Life Cycle Implications](https://arxiv.org/pdf/2608.01607)
 - 2026-08-04: [Path Portfolio Optimization: Defect, Lift, and the Price of Path Complexity](https://arxiv.org/pdf/2608.02355)
