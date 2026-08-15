@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-08-15 14:40)
+## Latest 20 publications (as of 2026-08-15 14:45)
 
 - 2026-08-13: [Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals](https://arxiv.org/pdf/2608.12283)
 - 2026-08-13: [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/pdf/2608.11250)
