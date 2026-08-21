@@ -1,5 +1,7 @@
-## Latest 20 publications (as of 2026-08-21 09:00)
+## Latest 20 publications (as of 2026-08-21 19:34)
 
+- 2026-08-21: [Dynamic Portfolio Optimization under CVaR Constraints](https://arxiv.org/pdf/2608.20179)
+- 2026-08-20: [Dynamic Portfolio Optimization under CVaR Constraints](https://arxiv.org/pdf/2608.20179v1)
 - 2026-08-13: [Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals](https://arxiv.org/pdf/2608.12283)
 - 2026-08-13: [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/pdf/2608.11250)
 - 2026-08-13: [Designing Agentic AI-Based Screening for Portfolio Investment](https://arxiv.org/pdf/2603.23300)
@@ -18,5 +20,3 @@
 - 2026-08-06: [Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation](https://arxiv.org/pdf/2507.07358)
 - 2026-08-05: [Mandate without Managers: Automated Market Makers as Verifiable Portfolio Products](https://arxiv.org/pdf/2608.02917)
 - 2026-08-05: [Optimal Life Insurance Decision in Mean-Variance DC Management with Mortality Improvements](https://arxiv.org/pdf/2608.04532v1)
-- 2026-08-05: [Portfolio Allocation under Heterogeneous Scales and Multifractality](https://arxiv.org/pdf/2608.04987v1)
-- 2026-08-04: [Conformal Kelly: Conformal Prediction Intervals as the Scale in Fractional Kelly Position Sizing](https://arxiv.org/pdf/2608.01494)
