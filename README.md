@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-08-22 22:00)
+## Latest 20 publications (as of 2026-08-23 09:00)
 
 - 2026-08-21: [Dynamic Portfolio Optimization under CVaR Constraints](https://arxiv.org/pdf/2608.20179)
 - 2026-08-20: [Dynamic Portfolio Optimization under CVaR Constraints](https://arxiv.org/pdf/2608.20179v1)
