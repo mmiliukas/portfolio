@@ -1,5 +1,9 @@
-## Latest 20 publications (as of 2026-08-24 22:00)
+## Latest 20 publications (as of 2026-08-25 09:00)
 
+- 2026-08-25: [KellyBoost: Growth-Optimal Portfolio Construction with Gradient-Boosted Trees](https://arxiv.org/pdf/2608.23393)
+- 2026-08-25: [The Axiomatic Trader: Latent Regularity, Information Budgets, and the Canonical Form of a Quantitative Investment System](https://arxiv.org/pdf/2608.23416)
+- 2026-08-24: [The Axiomatic Trader: Latent Regularity, Information Budgets, and the Canonical Form of a Quantitative Investment System](https://arxiv.org/pdf/2608.23416v1)
+- 2026-08-24: [KellyBoost: Growth-Optimal Portfolio Construction with Gradient-Boosted Trees](https://arxiv.org/pdf/2608.23393v1)
 - 2026-08-21: [Dynamic Portfolio Optimization under CVaR Constraints](https://arxiv.org/pdf/2608.20179)
 - 2026-08-20: [Dynamic Portfolio Optimization under CVaR Constraints](https://arxiv.org/pdf/2608.20179v1)
 - 2026-08-13: [Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals](https://arxiv.org/pdf/2608.12283)
@@ -16,7 +20,3 @@
 - 2026-08-07: [Knowledge-Optimising Investment Decisions with Informative Datasets](https://arxiv.org/pdf/2608.05991)
 - 2026-08-06: [Portfolio Allocation under Heterogeneous Scales and Multifractality](https://arxiv.org/pdf/2608.04987)
 - 2026-08-06: [Knowledge-Optimising Investment Decisions with Informative Datasets](https://arxiv.org/pdf/2608.05991v1)
-- 2026-08-06: [Optimal Life Insurance Decision in Mean-Variance DC Management with Mortality Improvements](https://arxiv.org/pdf/2608.04532)
-- 2026-08-06: [Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation](https://arxiv.org/pdf/2507.07358)
-- 2026-08-05: [Mandate without Managers: Automated Market Makers as Verifiable Portfolio Products](https://arxiv.org/pdf/2608.02917)
-- 2026-08-05: [Optimal Life Insurance Decision in Mean-Variance DC Management with Mortality Improvements](https://arxiv.org/pdf/2608.04532v1)
