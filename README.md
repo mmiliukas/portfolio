@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-08-25 09:00)
+## Latest 20 publications (as of 2026-08-25 22:00)
 
 - 2026-08-25: [KellyBoost: Growth-Optimal Portfolio Construction with Gradient-Boosted Trees](https://arxiv.org/pdf/2608.23393)
 - 2026-08-25: [The Axiomatic Trader: Latent Regularity, Information Budgets, and the Canonical Form of a Quantitative Investment System](https://arxiv.org/pdf/2608.23416)
