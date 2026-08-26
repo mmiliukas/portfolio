@@ -1,7 +1,10 @@
-## Latest 20 publications (as of 2026-08-25 22:00)
+## Latest 20 publications (as of 2026-08-26 09:00)
 
+- 2026-08-26: [Generalizing Markowitz Portfolio Optimization by a Quadratic Risk Measure](https://arxiv.org/pdf/2608.24449)
+- 2026-08-26: [Minimum-Distortion Wealth Taxation, I: Information-Theoretic versus Transport-Geometric Optimality on the Proportional Class](https://arxiv.org/pdf/2608.23576)
 - 2026-08-25: [KellyBoost: Growth-Optimal Portfolio Construction with Gradient-Boosted Trees](https://arxiv.org/pdf/2608.23393)
 - 2026-08-25: [The Axiomatic Trader: Latent Regularity, Information Budgets, and the Canonical Form of a Quantitative Investment System](https://arxiv.org/pdf/2608.23416)
+- 2026-08-25: [Generalizing Markowitz Portfolio Optimization by a Quadratic Risk Measure](https://arxiv.org/pdf/2608.24449v1)
 - 2026-08-24: [The Axiomatic Trader: Latent Regularity, Information Budgets, and the Canonical Form of a Quantitative Investment System](https://arxiv.org/pdf/2608.23416v1)
 - 2026-08-24: [KellyBoost: Growth-Optimal Portfolio Construction with Gradient-Boosted Trees](https://arxiv.org/pdf/2608.23393v1)
 - 2026-08-21: [Dynamic Portfolio Optimization under CVaR Constraints](https://arxiv.org/pdf/2608.20179)
@@ -17,6 +20,3 @@
 - 2026-08-10: [Evolutionary Factor Searching for Sparse Portfolio Optimization Using Large Language Models](https://arxiv.org/pdf/2507.17211)
 - 2026-08-10: [Beyond Co-Movement: Locality by Exposures Enables a Joint Factor-Graph Framework for Portfolio Diversification](https://arxiv.org/pdf/2608.06618)
 - 2026-08-10: [Certified High-Dimensional Wasserstein Robust Portfolio Optimization](https://arxiv.org/pdf/2608.07032)
-- 2026-08-07: [Knowledge-Optimising Investment Decisions with Informative Datasets](https://arxiv.org/pdf/2608.05991)
-- 2026-08-06: [Portfolio Allocation under Heterogeneous Scales and Multifractality](https://arxiv.org/pdf/2608.04987)
-- 2026-08-06: [Knowledge-Optimising Investment Decisions with Informative Datasets](https://arxiv.org/pdf/2608.05991v1)
