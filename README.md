@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-08-27 09:00)
+## Latest 20 publications (as of 2026-08-27 22:00)
 
 - 2026-08-26: [Generalizing Markowitz Portfolio Optimization by a Quadratic Risk Measure](https://arxiv.org/pdf/2608.24449)
 - 2026-08-26: [Minimum-Distortion Wealth Taxation, I: Information-Theoretic versus Transport-Geometric Optimality on the Proportional Class](https://arxiv.org/pdf/2608.23576)
