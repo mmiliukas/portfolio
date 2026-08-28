@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-08-28 09:00)
+## Latest 20 publications (as of 2026-08-28 22:00)
 
 - 2026-08-28: [Scalable Pontryagin-Guided Adjoint-to-Control Recovery for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.15667)
 - 2026-08-28: [Self-Consistent Adjoint Policy Iteration for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.17808)
