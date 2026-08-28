@@ -1113,5 +1113,15 @@
     "pubDate": "2026-08-25",
     "title": "Generalizing Markowitz Portfolio Optimization by a Quadratic Risk Measure",
     "link": "https://arxiv.org/pdf/2608.24449v1"
+  },
+  {
+    "pubDate": "2026-08-28",
+    "title": "Scalable Pontryagin-Guided Adjoint-to-Control Recovery for Constrained Dynamic Portfolio Choice",
+    "link": "https://arxiv.org/pdf/2608.15667"
+  },
+  {
+    "pubDate": "2026-08-28",
+    "title": "Self-Consistent Adjoint Policy Iteration for Constrained Dynamic Portfolio Choice",
+    "link": "https://arxiv.org/pdf/2608.17808"
   }
 ]
