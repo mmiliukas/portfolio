@@ -1,5 +1,7 @@
-## Latest 20 publications (as of 2026-08-27 22:00)
+## Latest 20 publications (as of 2026-08-28 09:00)
 
+- 2026-08-28: [Scalable Pontryagin-Guided Adjoint-to-Control Recovery for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.15667)
+- 2026-08-28: [Self-Consistent Adjoint Policy Iteration for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.17808)
 - 2026-08-26: [Generalizing Markowitz Portfolio Optimization by a Quadratic Risk Measure](https://arxiv.org/pdf/2608.24449)
 - 2026-08-26: [Minimum-Distortion Wealth Taxation, I: Information-Theoretic versus Transport-Geometric Optimality on the Proportional Class](https://arxiv.org/pdf/2608.23576)
 - 2026-08-25: [KellyBoost: Growth-Optimal Portfolio Construction with Gradient-Boosted Trees](https://arxiv.org/pdf/2608.23393)
@@ -18,5 +20,3 @@
 - 2026-08-11: [Objective-oriented quantitative investment: A specification-driven framework for automated synthesis of trading strategy pipelines](https://arxiv.org/pdf/2608.10410v1)
 - 2026-08-11: [Robustness or Crowding: Experimental Design for Trading Strategy Capacity](https://arxiv.org/pdf/2608.08405)
 - 2026-08-10: [Evolutionary Factor Searching for Sparse Portfolio Optimization Using Large Language Models](https://arxiv.org/pdf/2507.17211)
-- 2026-08-10: [Beyond Co-Movement: Locality by Exposures Enables a Joint Factor-Graph Framework for Portfolio Diversification](https://arxiv.org/pdf/2608.06618)
-- 2026-08-10: [Certified High-Dimensional Wasserstein Robust Portfolio Optimization](https://arxiv.org/pdf/2608.07032)
