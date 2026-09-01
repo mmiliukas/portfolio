@@ -1123,5 +1123,15 @@
     "pubDate": "2026-08-28",
     "title": "Self-Consistent Adjoint Policy Iteration for Constrained Dynamic Portfolio Choice",
     "link": "https://arxiv.org/pdf/2608.17808"
+  },
+  {
+    "pubDate": "2026-09-01",
+    "title": "End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios",
+    "link": "https://arxiv.org/pdf/2608.30446"
+  },
+  {
+    "pubDate": "2026-08-31",
+    "title": "End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios",
+    "link": "https://arxiv.org/pdf/2608.30446v1"
   }
 ]
