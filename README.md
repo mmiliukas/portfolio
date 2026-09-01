@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-01 09:00)
+## Latest 20 publications (as of 2026-09-01 22:00)
 
 - 2026-09-01: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446)
 - 2026-08-31: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446v1)
