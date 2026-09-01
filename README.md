@@ -1,5 +1,7 @@
-## Latest 20 publications (as of 2026-08-31 22:00)
+## Latest 20 publications (as of 2026-09-01 09:00)
 
+- 2026-09-01: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446)
+- 2026-08-31: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446v1)
 - 2026-08-28: [Scalable Pontryagin-Guided Adjoint-to-Control Recovery for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.15667)
 - 2026-08-28: [Self-Consistent Adjoint Policy Iteration for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.17808)
 - 2026-08-26: [Generalizing Markowitz Portfolio Optimization by a Quadratic Risk Measure](https://arxiv.org/pdf/2608.24449)
@@ -18,5 +20,3 @@
 - 2026-08-12: [Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals](https://arxiv.org/pdf/2608.12283v1)
 - 2026-08-12: [Beyond Cash Flows: A Multi-Agent AI Framework for Valuing Clinical-Stage, Cross-Border Biotechnology](https://arxiv.org/pdf/2608.10175)
 - 2026-08-11: [Objective-oriented quantitative investment: A specification-driven framework for automated synthesis of trading strategy pipelines](https://arxiv.org/pdf/2608.10410v1)
-- 2026-08-11: [Robustness or Crowding: Experimental Design for Trading Strategy Capacity](https://arxiv.org/pdf/2608.08405)
-- 2026-08-10: [Evolutionary Factor Searching for Sparse Portfolio Optimization Using Large Language Models](https://arxiv.org/pdf/2507.17211)
