@@ -1,6 +1,8 @@
-## Latest 20 publications (as of 2026-09-01 22:00)
+## Latest 20 publications (as of 2026-09-02 09:00)
 
+- 2026-09-02: [Harvesting the Variance Risk Premium in Nuclear and Energy Equities: A Short-Put Portfolio Derisking Strategy](https://arxiv.org/pdf/2609.01183)
 - 2026-09-01: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446)
+- 2026-09-01: [Harvesting the Variance Risk Premium in Nuclear and Energy Equities: A Short-Put Portfolio Derisking Strategy](https://arxiv.org/pdf/2609.01183v1)
 - 2026-08-31: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446v1)
 - 2026-08-28: [Scalable Pontryagin-Guided Adjoint-to-Control Recovery for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.15667)
 - 2026-08-28: [Self-Consistent Adjoint Policy Iteration for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.17808)
@@ -18,5 +20,3 @@
 - 2026-08-13: [Designing Agentic AI-Based Screening for Portfolio Investment](https://arxiv.org/pdf/2603.23300)
 - 2026-08-12: [Objective-oriented quantitative investment: A specification-driven framework for automated synthesis of trading strategy pipelines](https://arxiv.org/pdf/2608.10410)
 - 2026-08-12: [Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals](https://arxiv.org/pdf/2608.12283v1)
-- 2026-08-12: [Beyond Cash Flows: A Multi-Agent AI Framework for Valuing Clinical-Stage, Cross-Border Biotechnology](https://arxiv.org/pdf/2608.10175)
-- 2026-08-11: [Objective-oriented quantitative investment: A specification-driven framework for automated synthesis of trading strategy pipelines](https://arxiv.org/pdf/2608.10410v1)
