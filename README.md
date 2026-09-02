@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-02 09:00)
+## Latest 20 publications (as of 2026-09-02 22:00)
 
 - 2026-09-02: [Harvesting the Variance Risk Premium in Nuclear and Energy Equities: A Short-Put Portfolio Derisking Strategy](https://arxiv.org/pdf/2609.01183)
 - 2026-09-01: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446)
