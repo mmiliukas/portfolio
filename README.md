@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-03 09:00)
+## Latest 20 publications (as of 2026-09-03 22:00)
 
 - 2026-09-03: [Switching Frictions, Heterogeneous Trading Horizons, and Long-Memory Order Flow](https://arxiv.org/pdf/2609.02525)
 - 2026-09-03: [Uniform Inference and Certified Capacity at a Reflexive Stability Boundary](https://arxiv.org/pdf/2609.02535)
