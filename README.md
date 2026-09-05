@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-04 22:00)
+## Latest 20 publications (as of 2026-09-05 09:00)
 
 - 2026-09-04: [An Entropic Factor Model for Robust Portfolio Replication](https://arxiv.org/pdf/2609.03552)
 - 2026-09-04: [The Analyst in the Prompt: Role, Retrieval, and Memory Biases in LLM Financial Analysis](https://arxiv.org/pdf/2609.03218)
