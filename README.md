@@ -1,5 +1,9 @@
-## Latest 20 publications (as of 2026-09-06 22:00)
+## Latest 20 publications (as of 2026-09-07 09:00)
 
+- 2026-09-07: [Portfolio Diversification and Concentration under Dependence Uncertainty: A Majorization Approach](https://arxiv.org/pdf/2609.04496)
+- 2026-09-07: [Convex Modeling of Price Cross-Impact over Time](https://arxiv.org/pdf/2609.04712)
+- 2026-09-07: [Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing](https://arxiv.org/pdf/2609.04917)
+- 2026-09-07: [Robust Asset-Liability Management](https://arxiv.org/pdf/2310.00553)
 - 2026-09-04: [An Entropic Factor Model for Robust Portfolio Replication](https://arxiv.org/pdf/2609.03552)
 - 2026-09-04: [The Analyst in the Prompt: Role, Retrieval, and Memory Biases in LLM Financial Analysis](https://arxiv.org/pdf/2609.03218)
 - 2026-09-04: [Bayesian Confidence Recalibration and Research-Equilibrium Criticality: Temporal Support in Robust Portfolios](https://arxiv.org/pdf/2609.03741)
@@ -16,7 +20,3 @@
 - 2026-09-01: [Harvesting the Variance Risk Premium in Nuclear and Energy Equities: A Short-Put Portfolio Derisking Strategy](https://arxiv.org/pdf/2609.01183v1)
 - 2026-08-31: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446v1)
 - 2026-08-28: [Scalable Pontryagin-Guided Adjoint-to-Control Recovery for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.15667)
-- 2026-08-28: [Self-Consistent Adjoint Policy Iteration for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.17808)
-- 2026-08-26: [Generalizing Markowitz Portfolio Optimization by a Quadratic Risk Measure](https://arxiv.org/pdf/2608.24449)
-- 2026-08-26: [Minimum-Distortion Wealth Taxation, I: Information-Theoretic versus Transport-Geometric Optimality on the Proportional Class](https://arxiv.org/pdf/2608.23576)
-- 2026-08-25: [KellyBoost: Growth-Optimal Portfolio Construction with Gradient-Boosted Trees](https://arxiv.org/pdf/2608.23393)
