@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-07 09:00)
+## Latest 20 publications (as of 2026-09-08 09:00)
 
 - 2026-09-07: [Portfolio Diversification and Concentration under Dependence Uncertainty: A Majorization Approach](https://arxiv.org/pdf/2609.04496)
 - 2026-09-07: [Convex Modeling of Price Cross-Impact over Time](https://arxiv.org/pdf/2609.04712)
