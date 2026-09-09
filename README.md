@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-09 09:00)
+## Latest 20 publications (as of 2026-09-09 22:00)
 
 - 2026-09-09: [Simple Dynamic Stock/Bond/Gold Portfolios](https://arxiv.org/pdf/2609.07946)
 - 2026-09-07: [Portfolio Diversification and Concentration under Dependence Uncertainty: A Majorization Approach](https://arxiv.org/pdf/2609.04496)
