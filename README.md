@@ -1,5 +1,6 @@
-## Latest 20 publications (as of 2026-09-08 22:00)
+## Latest 20 publications (as of 2026-09-09 09:00)
 
+- 2026-09-09: [Simple Dynamic Stock/Bond/Gold Portfolios](https://arxiv.org/pdf/2609.07946)
 - 2026-09-07: [Portfolio Diversification and Concentration under Dependence Uncertainty: A Majorization Approach](https://arxiv.org/pdf/2609.04496)
 - 2026-09-07: [Convex Modeling of Price Cross-Impact over Time](https://arxiv.org/pdf/2609.04712)
 - 2026-09-07: [Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing](https://arxiv.org/pdf/2609.04917)
@@ -19,4 +20,3 @@
 - 2026-09-01: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446)
 - 2026-09-01: [Harvesting the Variance Risk Premium in Nuclear and Energy Equities: A Short-Put Portfolio Derisking Strategy](https://arxiv.org/pdf/2609.01183v1)
 - 2026-08-31: [End-to-End Neural Shrinkage of Indefinite Pairwise Correlation Matrices for Small-Cap-Inclusive Portfolios](https://arxiv.org/pdf/2608.30446v1)
-- 2026-08-28: [Scalable Pontryagin-Guided Adjoint-to-Control Recovery for Constrained Dynamic Portfolio Choice](https://arxiv.org/pdf/2608.15667)
