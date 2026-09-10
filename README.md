@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-10 09:00)
+## Latest 20 publications (as of 2026-09-10 22:00)
 
 - 2026-09-10: [Signal Correlation, IC, and PnL Dependence](https://arxiv.org/pdf/2609.09588)
 - 2026-09-10: [Optimal Retirement Choice under Age-dependent Force of Mortality](https://arxiv.org/pdf/2311.12169)
