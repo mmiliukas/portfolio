@@ -1,7 +1,9 @@
-## Latest 20 publications (as of 2026-09-10 22:00)
+## Latest 20 publications (as of 2026-09-11 09:00)
 
+- 2026-09-11: [Entropic Value-at-Risk parity for tempered stable returns](https://arxiv.org/pdf/2609.11905)
 - 2026-09-10: [Signal Correlation, IC, and PnL Dependence](https://arxiv.org/pdf/2609.09588)
 - 2026-09-10: [Optimal Retirement Choice under Age-dependent Force of Mortality](https://arxiv.org/pdf/2311.12169)
+- 2026-09-10: [Entropic Value-at-Risk parity for tempered stable returns](https://arxiv.org/pdf/2609.11905v1)
 - 2026-09-09: [Simple Dynamic Stock/Bond/Gold Portfolios](https://arxiv.org/pdf/2609.07946)
 - 2026-09-09: [Signal Correlation, IC, and PnL Dependence](https://arxiv.org/pdf/2609.09588v1)
 - 2026-09-07: [Portfolio Diversification and Concentration under Dependence Uncertainty: A Majorization Approach](https://arxiv.org/pdf/2609.04496)
@@ -18,5 +20,3 @@
 - 2026-09-03: [An Entropic Factor Model for Robust Portfolio Replication](https://arxiv.org/pdf/2609.03552v1)
 - 2026-09-02: [Harvesting the Variance Risk Premium in Nuclear and Energy Equities: A Short-Put Portfolio Derisking Strategy](https://arxiv.org/pdf/2609.01183)
 - 2026-09-02: [Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization](https://arxiv.org/pdf/2609.02677v1)
-- 2026-09-02: [Uniform Inference and Certified Capacity at a Reflexive Stability Boundary](https://arxiv.org/pdf/2609.02535v1)
-- 2026-09-02: [Switching Frictions, Heterogeneous Trading Horizons, and Long-Memory Order Flow](https://arxiv.org/pdf/2609.02525v1)
