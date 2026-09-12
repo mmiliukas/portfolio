@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-11 22:00)
+## Latest 20 publications (as of 2026-09-12 09:00)
 
 - 2026-09-11: [Entropic Value-at-Risk parity for tempered stable returns](https://arxiv.org/pdf/2609.11905)
 - 2026-09-10: [Signal Correlation, IC, and PnL Dependence](https://arxiv.org/pdf/2609.09588)
