@@ -1,5 +1,7 @@
-## Latest 20 publications (as of 2026-09-12 09:00)
+## Latest 20 publications (as of 2026-09-15 22:00)
 
+- 2026-09-15: [Special Markowitz: Thermodynamic Formalism for the Joint Regularisation of Returns and Covariance](https://arxiv.org/pdf/2609.14029)
+- 2026-09-15: [Diffusion models for dynamic volatility surface generation and data-driven hedging](https://arxiv.org/pdf/2609.13402)
 - 2026-09-11: [Entropic Value-at-Risk parity for tempered stable returns](https://arxiv.org/pdf/2609.11905)
 - 2026-09-10: [Signal Correlation, IC, and PnL Dependence](https://arxiv.org/pdf/2609.09588)
 - 2026-09-10: [Optimal Retirement Choice under Age-dependent Force of Mortality](https://arxiv.org/pdf/2311.12169)
@@ -18,5 +20,3 @@
 - 2026-09-03: [Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization](https://arxiv.org/pdf/2609.02677)
 - 2026-09-03: [Bayesian Confidence Recalibration and Research-Equilibrium Criticality: Temporal Support in Robust Portfolios](https://arxiv.org/pdf/2609.03741v1)
 - 2026-09-03: [An Entropic Factor Model for Robust Portfolio Replication](https://arxiv.org/pdf/2609.03552v1)
-- 2026-09-02: [Harvesting the Variance Risk Premium in Nuclear and Energy Equities: A Short-Put Portfolio Derisking Strategy](https://arxiv.org/pdf/2609.01183)
-- 2026-09-02: [Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization](https://arxiv.org/pdf/2609.02677v1)
