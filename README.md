@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-15 22:00)
+## Latest 20 publications (as of 2026-09-16 09:00)
 
 - 2026-09-15: [Special Markowitz: Thermodynamic Formalism for the Joint Regularisation of Returns and Covariance](https://arxiv.org/pdf/2609.14029)
 - 2026-09-15: [Diffusion models for dynamic volatility surface generation and data-driven hedging](https://arxiv.org/pdf/2609.13402)
