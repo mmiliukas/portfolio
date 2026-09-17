@@ -1258,5 +1258,10 @@
     "pubDate": "2026-09-15",
     "title": "Diffusion models for dynamic volatility surface generation and data-driven hedging",
     "link": "https://arxiv.org/pdf/2609.13402"
+  },
+  {
+    "pubDate": "2026-09-17",
+    "title": "Separated Signal Libraries: Packing, Saturation, and Joint Spectral Limits",
+    "link": "https://arxiv.org/pdf/2609.17609"
   }
 ]
