@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-18 21:26)
+## Latest 20 publications (as of 2026-09-18 22:00)
 
 - 2026-09-18: [Principal component error in high-dimensional factor models](https://arxiv.org/pdf/2609.20550)
 - 2026-09-17: [Separated Signal Libraries: Packing, Saturation, and Joint Spectral Limits](https://arxiv.org/pdf/2609.17609)
