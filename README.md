@@ -1,6 +1,8 @@
-## Latest 20 publications (as of 2026-09-17 09:00)
+## Latest 20 publications (as of 2026-09-18 21:26)
 
+- 2026-09-18: [Principal component error in high-dimensional factor models](https://arxiv.org/pdf/2609.20550)
 - 2026-09-17: [Separated Signal Libraries: Packing, Saturation, and Joint Spectral Limits](https://arxiv.org/pdf/2609.17609)
+- 2026-09-17: [Principal component error in high-dimensional factor models](https://arxiv.org/pdf/2609.20550v1)
 - 2026-09-15: [Special Markowitz: Thermodynamic Formalism for the Joint Regularisation of Returns and Covariance](https://arxiv.org/pdf/2609.14029)
 - 2026-09-15: [Diffusion models for dynamic volatility surface generation and data-driven hedging](https://arxiv.org/pdf/2609.13402)
 - 2026-09-11: [Entropic Value-at-Risk parity for tempered stable returns](https://arxiv.org/pdf/2609.11905)
@@ -18,5 +20,3 @@
 - 2026-09-04: [Bayesian Confidence Recalibration and Research-Equilibrium Criticality: Temporal Support in Robust Portfolios](https://arxiv.org/pdf/2609.03741)
 - 2026-09-03: [Switching Frictions, Heterogeneous Trading Horizons, and Long-Memory Order Flow](https://arxiv.org/pdf/2609.02525)
 - 2026-09-03: [Uniform Inference and Certified Capacity at a Reflexive Stability Boundary](https://arxiv.org/pdf/2609.02535)
-- 2026-09-03: [Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization](https://arxiv.org/pdf/2609.02677)
-- 2026-09-03: [Bayesian Confidence Recalibration and Research-Equilibrium Criticality: Temporal Support in Robust Portfolios](https://arxiv.org/pdf/2609.03741v1)
