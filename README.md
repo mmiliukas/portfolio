@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-09-29 10:00)
+## Latest 20 publications (as of 2026-09-29 22:00)
 
 - 2026-09-29: [Taming the Greeks: Option Portfolios with Inductive Biases](https://arxiv.org/pdf/2609.33767)
 - 2026-09-29: [Optimal Reinsurance-Dividend Strategy with Fixed Transaction Costs in a Regime-Switching Brownian Risk Model: A Viscosity Solution to the Impulse Control Problem](https://arxiv.org/pdf/2609.32686)
