@@ -1273,5 +1273,45 @@
     "pubDate": "2026-09-17",
     "title": "Principal component error in high-dimensional factor models",
     "link": "https://arxiv.org/pdf/2609.20550v1"
+  },
+  {
+    "pubDate": "2026-09-29",
+    "title": "Taming the Greeks: Option Portfolios with Inductive Biases",
+    "link": "https://arxiv.org/pdf/2609.33767"
+  },
+  {
+    "pubDate": "2026-09-29",
+    "title": "Optimal Reinsurance-Dividend Strategy with Fixed Transaction Costs in a Regime-Switching Brownian Risk Model: A Viscosity Solution to the Impulse Control Problem",
+    "link": "https://arxiv.org/pdf/2609.32686"
+  },
+  {
+    "pubDate": "2026-09-29",
+    "title": "From Word Counts to Context: Topic Models for Asset Pricing",
+    "link": "https://arxiv.org/pdf/2609.34169"
+  },
+  {
+    "pubDate": "2026-09-29",
+    "title": "Retrieval-Augmented Diffusion Modeling for Stochastic Discount Factor Portfolios",
+    "link": "https://arxiv.org/pdf/2609.35086"
+  },
+  {
+    "pubDate": "2026-09-29",
+    "title": "Return-Decay Residuals and Tail-Risk Forecasting: Timing Artifacts, Conditional Inference, and Cross-Market Evidence",
+    "link": "https://arxiv.org/pdf/2512.11913"
+  },
+  {
+    "pubDate": "2026-09-29",
+    "title": "Cost-Sensitive Online Window Size Selection for Portfolio Management",
+    "link": "https://arxiv.org/pdf/2609.29887"
+  },
+  {
+    "pubDate": "2026-09-28",
+    "title": "Retrieval-Augmented Diffusion Modeling for Stochastic Discount Factor Portfolios",
+    "link": "https://arxiv.org/pdf/2609.35086v1"
+  },
+  {
+    "pubDate": "2026-09-28",
+    "title": "From Word Counts to Context: Topic Models for Asset Pricing",
+    "link": "https://arxiv.org/pdf/2609.34169v1"
   }
 ]
