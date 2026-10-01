@@ -1313,5 +1313,35 @@
     "pubDate": "2026-09-28",
     "title": "From Word Counts to Context: Topic Models for Asset Pricing",
     "link": "https://arxiv.org/pdf/2609.34169v1"
+  },
+  {
+    "pubDate": "2026-10-01",
+    "title": "Spouse-Protected Tontines: Household Decumulation via Neural-Network Optimization",
+    "link": "https://arxiv.org/pdf/2609.39569"
+  },
+  {
+    "pubDate": "2026-10-01",
+    "title": "Multiperiod bond portfolio optimization with transaction costs using a Markov Decision process",
+    "link": "https://arxiv.org/pdf/2609.38765"
+  },
+  {
+    "pubDate": "2026-10-01",
+    "title": "Jacobian Rank Collapse in Decision-Focused Learning",
+    "link": "https://arxiv.org/pdf/2609.39261"
+  },
+  {
+    "pubDate": "2026-09-30",
+    "title": "Spouse-Protected Tontines: Household Decumulation via Neural-Network Optimization",
+    "link": "https://arxiv.org/pdf/2609.39569v1"
+  },
+  {
+    "pubDate": "2026-09-30",
+    "title": "Jacobian Rank Collapse in Decision-Focused Learning",
+    "link": "https://arxiv.org/pdf/2609.39261v1"
+  },
+  {
+    "pubDate": "2026-09-30",
+    "title": "Multiperiod bond portfolio optimization with transaction costs using a Markov Decision process",
+    "link": "https://arxiv.org/pdf/2609.38765v1"
   }
 ]
