@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-01 10:00)
+## Latest 20 publications (as of 2026-10-01 22:00)
 
 - 2026-10-01: [Spouse-Protected Tontines: Household Decumulation via Neural-Network Optimization](https://arxiv.org/pdf/2609.39569)
 - 2026-10-01: [Multiperiod bond portfolio optimization with transaction costs using a Markov Decision process](https://arxiv.org/pdf/2609.38765)
