@@ -1343,5 +1343,25 @@
     "pubDate": "2026-09-30",
     "title": "Multiperiod bond portfolio optimization with transaction costs using a Markov Decision process",
     "link": "https://arxiv.org/pdf/2609.38765v1"
+  },
+  {
+    "pubDate": "2026-10-02",
+    "title": "Admissible Portfolio Optimization: Information Constraints, Conditional Efficient Frontiers, and the Price of Causal Identification",
+    "link": "https://arxiv.org/pdf/2610.00147"
+  },
+  {
+    "pubDate": "2026-10-02",
+    "title": "Causal Price-of-Risk Mandates under Overlapping Information",
+    "link": "https://arxiv.org/pdf/2610.00158"
+  },
+  {
+    "pubDate": "2026-10-02",
+    "title": "Verify Claims, Not Scores: Evidence-Based Verification of Modular Agents",
+    "link": "https://arxiv.org/pdf/2610.01348"
+  },
+  {
+    "pubDate": "2026-10-01",
+    "title": "Verify Claims, Not Scores: Evidence-Based Verification of Modular Agents",
+    "link": "https://arxiv.org/pdf/2610.01348v1"
   }
 ]
