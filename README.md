@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-03 22:00)
+## Latest 20 publications (as of 2026-10-04 10:00)
 
 - 2026-10-02: [Admissible Portfolio Optimization: Information Constraints, Conditional Efficient Frontiers, and the Price of Causal Identification](https://arxiv.org/pdf/2610.00147)
 - 2026-10-02: [Causal Price-of-Risk Mandates under Overlapping Information](https://arxiv.org/pdf/2610.00158)
