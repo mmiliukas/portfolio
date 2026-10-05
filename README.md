@@ -1,5 +1,7 @@
-## Latest 20 publications (as of 2026-10-04 22:00)
+## Latest 20 publications (as of 2026-10-05 10:00)
 
+- 2026-10-05: [Optimal Fees for Liquidity Provision in Automated Market Makers](https://arxiv.org/pdf/2508.08152)
+- 2026-10-05: [Optimal Investment and Consumption in a Stochastic Factor Model](https://arxiv.org/pdf/2509.09452)
 - 2026-10-02: [Admissible Portfolio Optimization: Information Constraints, Conditional Efficient Frontiers, and the Price of Causal Identification](https://arxiv.org/pdf/2610.00147)
 - 2026-10-02: [Causal Price-of-Risk Mandates under Overlapping Information](https://arxiv.org/pdf/2610.00158)
 - 2026-10-02: [Verify Claims, Not Scores: Evidence-Based Verification of Modular Agents](https://arxiv.org/pdf/2610.01348)
@@ -18,5 +20,3 @@
 - 2026-09-29: [Cost-Sensitive Online Window Size Selection for Portfolio Management](https://arxiv.org/pdf/2609.29887)
 - 2026-09-28: [Retrieval-Augmented Diffusion Modeling for Stochastic Discount Factor Portfolios](https://arxiv.org/pdf/2609.35086v1)
 - 2026-09-28: [From Word Counts to Context: Topic Models for Asset Pricing](https://arxiv.org/pdf/2609.34169v1)
-- 2026-09-18: [Principal component error in high-dimensional factor models](https://arxiv.org/pdf/2609.20550)
-- 2026-09-17: [Separated Signal Libraries: Packing, Saturation, and Joint Spectral Limits](https://arxiv.org/pdf/2609.17609)
