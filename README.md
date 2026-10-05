@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-05 10:00)
+## Latest 20 publications (as of 2026-10-05 22:00)
 
 - 2026-10-05: [Optimal Fees for Liquidity Provision in Automated Market Makers](https://arxiv.org/pdf/2508.08152)
 - 2026-10-05: [Optimal Investment and Consumption in a Stochastic Factor Model](https://arxiv.org/pdf/2509.09452)
