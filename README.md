@@ -1,5 +1,8 @@
-## Latest 20 publications (as of 2026-10-05 22:00)
+## Latest 20 publications (as of 2026-10-06 10:00)
 
+- 2026-10-06: [Cities of Signals: Compression, Separation, and the Geometry of Novelty](https://arxiv.org/pdf/2610.04122)
+- 2026-10-06: [Robust enhanced index tracking portfolio selection under distributional uncertainty](https://arxiv.org/pdf/2610.04221)
+- 2026-10-06: [Distributionally Robust Deep Q-Learning](https://arxiv.org/pdf/2505.19058)
 - 2026-10-05: [Optimal Fees for Liquidity Provision in Automated Market Makers](https://arxiv.org/pdf/2508.08152)
 - 2026-10-05: [Optimal Investment and Consumption in a Stochastic Factor Model](https://arxiv.org/pdf/2509.09452)
 - 2026-10-02: [Admissible Portfolio Optimization: Information Constraints, Conditional Efficient Frontiers, and the Price of Causal Identification](https://arxiv.org/pdf/2610.00147)
@@ -17,6 +20,3 @@
 - 2026-09-29: [From Word Counts to Context: Topic Models for Asset Pricing](https://arxiv.org/pdf/2609.34169)
 - 2026-09-29: [Retrieval-Augmented Diffusion Modeling for Stochastic Discount Factor Portfolios](https://arxiv.org/pdf/2609.35086)
 - 2026-09-29: [Return-Decay Residuals and Tail-Risk Forecasting: Timing Artifacts, Conditional Inference, and Cross-Market Evidence](https://arxiv.org/pdf/2512.11913)
-- 2026-09-29: [Cost-Sensitive Online Window Size Selection for Portfolio Management](https://arxiv.org/pdf/2609.29887)
-- 2026-09-28: [Retrieval-Augmented Diffusion Modeling for Stochastic Discount Factor Portfolios](https://arxiv.org/pdf/2609.35086v1)
-- 2026-09-28: [From Word Counts to Context: Topic Models for Asset Pricing](https://arxiv.org/pdf/2609.34169v1)
