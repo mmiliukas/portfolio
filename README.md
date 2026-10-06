@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-06 10:00)
+## Latest 20 publications (as of 2026-10-06 22:00)
 
 - 2026-10-06: [Cities of Signals: Compression, Separation, and the Geometry of Novelty](https://arxiv.org/pdf/2610.04122)
 - 2026-10-06: [Robust enhanced index tracking portfolio selection under distributional uncertainty](https://arxiv.org/pdf/2610.04221)
