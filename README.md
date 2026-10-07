@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-07 10:00)
+## Latest 20 publications (as of 2026-10-07 22:00)
 
 - 2026-10-07: [FactorBench: A Portfolio-Aware Benchmark for Automated Factor Mining](https://arxiv.org/pdf/2610.06947)
 - 2026-10-07: [Exponential investors with weakly mean-reverting prices](https://arxiv.org/pdf/2610.08631)
