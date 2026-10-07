@@ -1388,5 +1388,20 @@
     "pubDate": "2026-10-06",
     "title": "Distributionally Robust Deep Q-Learning",
     "link": "https://arxiv.org/pdf/2505.19058"
+  },
+  {
+    "pubDate": "2026-10-07",
+    "title": "FactorBench: A Portfolio-Aware Benchmark for Automated Factor Mining",
+    "link": "https://arxiv.org/pdf/2610.06947"
+  },
+  {
+    "pubDate": "2026-10-07",
+    "title": "Exponential investors with weakly mean-reverting prices",
+    "link": "https://arxiv.org/pdf/2610.08631"
+  },
+  {
+    "pubDate": "2026-10-06",
+    "title": "Exponential investors with weakly mean-reverting prices",
+    "link": "https://arxiv.org/pdf/2610.08631v1"
   }
 ]
