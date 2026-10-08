@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-08 10:00)
+## Latest 20 publications (as of 2026-10-08 22:00)
 
 - 2026-10-08: [Conditional value-at-risk under reward-penalty mechanism with applications to robust portfolio management](https://arxiv.org/pdf/2610.09246)
 - 2026-10-08: [OOM-RL II: Reality Is an Oracle, Not a Debugger Provenance-Constrained Diagnosis in Continually Evolving Agent-Engineered Systems](https://arxiv.org/pdf/2610.10256)
