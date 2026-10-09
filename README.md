@@ -1,8 +1,10 @@
-## Latest 20 publications (as of 2026-10-08 22:00)
+## Latest 20 publications (as of 2026-10-09 10:00)
 
+- 2026-10-09: [Weighted selection from elliptical distributions: a stochastic representation and an application to portfolio separation](https://arxiv.org/pdf/2610.11822)
 - 2026-10-08: [Conditional value-at-risk under reward-penalty mechanism with applications to robust portfolio management](https://arxiv.org/pdf/2610.09246)
 - 2026-10-08: [OOM-RL II: Reality Is an Oracle, Not a Debugger Provenance-Constrained Diagnosis in Continually Evolving Agent-Engineered Systems](https://arxiv.org/pdf/2610.10256)
 - 2026-10-08: [SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions](https://arxiv.org/pdf/2610.10407)
+- 2026-10-08: [Weighted selection from elliptical distributions: a stochastic representation and an application to portfolio separation](https://arxiv.org/pdf/2610.11822v1)
 - 2026-10-07: [FactorBench: A Portfolio-Aware Benchmark for Automated Factor Mining](https://arxiv.org/pdf/2610.06947)
 - 2026-10-07: [Exponential investors with weakly mean-reverting prices](https://arxiv.org/pdf/2610.08631)
 - 2026-10-07: [SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions](https://arxiv.org/pdf/2610.10407v1)
@@ -18,5 +20,3 @@
 - 2026-10-02: [Causal Price-of-Risk Mandates under Overlapping Information](https://arxiv.org/pdf/2610.00158)
 - 2026-10-02: [Verify Claims, Not Scores: Evidence-Based Verification of Modular Agents](https://arxiv.org/pdf/2610.01348)
 - 2026-10-01: [Spouse-Protected Tontines: Household Decumulation via Neural-Network Optimization](https://arxiv.org/pdf/2609.39569)
-- 2026-10-01: [Multiperiod bond portfolio optimization with transaction costs using a Markov Decision process](https://arxiv.org/pdf/2609.38765)
-- 2026-10-01: [Jacobian Rank Collapse in Decision-Focused Learning](https://arxiv.org/pdf/2609.39261)
