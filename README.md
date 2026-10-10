@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-10 10:00)
+## Latest 20 publications (as of 2026-10-10 22:00)
 
 - 2026-10-09: [Weighted selection from elliptical distributions: a stochastic representation and an application to portfolio separation](https://arxiv.org/pdf/2610.11822)
 - 2026-10-08: [Conditional value-at-risk under reward-penalty mechanism with applications to robust portfolio management](https://arxiv.org/pdf/2610.09246)
