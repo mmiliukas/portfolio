@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-12 22:00)
+## Latest 20 publications (as of 2026-10-13 10:00)
 
 - 2026-10-12: [Entropy Regularization under No-Shorting: Structure Preservation and Convexity in Dynamic Mean-Variance Portfolio Selection](https://arxiv.org/pdf/2610.13162)
 - 2026-10-09: [Weighted selection from elliptical distributions: a stochastic representation and an application to portfolio separation](https://arxiv.org/pdf/2610.11822)
