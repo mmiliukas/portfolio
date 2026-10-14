@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-14 10:00)
+## Latest 20 publications (as of 2026-10-14 22:00)
 
 - 2026-10-14: [Ex Ante and Scenario-Conditional Value of Information in Dynamic Portfolio Choice](https://arxiv.org/pdf/2610.14821)
 - 2026-10-14: [From Economic Explanation to Performance Improvement in Machine-Learning Portfolios](https://arxiv.org/pdf/2610.15144)
