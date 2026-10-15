@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-15 10:00)
+## Latest 20 publications (as of 2026-10-15 22:00)
 
 - 2026-10-15: [Data-Driven Dynamic Portfolio Selection with Vine Copula Simulation and Reinforcement Learning](https://arxiv.org/pdf/2610.20037)
 - 2026-10-15: [Active Portfolio Management in Concentrated Equity Markets](https://arxiv.org/pdf/2609.27113)
