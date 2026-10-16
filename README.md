@@ -1,7 +1,9 @@
-## Latest 20 publications (as of 2026-10-15 22:00)
+## Latest 20 publications (as of 2026-10-16 10:00)
 
+- 2026-10-16: [Loss-versus-rebalancing with external proportional transaction costs](https://arxiv.org/pdf/2610.21057)
 - 2026-10-15: [Data-Driven Dynamic Portfolio Selection with Vine Copula Simulation and Reinforcement Learning](https://arxiv.org/pdf/2610.20037)
 - 2026-10-15: [Active Portfolio Management in Concentrated Equity Markets](https://arxiv.org/pdf/2609.27113)
+- 2026-10-15: [Loss-versus-rebalancing with external proportional transaction costs](https://arxiv.org/pdf/2610.21057v1)
 - 2026-10-14: [Ex Ante and Scenario-Conditional Value of Information in Dynamic Portfolio Choice](https://arxiv.org/pdf/2610.14821)
 - 2026-10-14: [From Economic Explanation to Performance Improvement in Machine-Learning Portfolios](https://arxiv.org/pdf/2610.15144)
 - 2026-10-14: [A Mean Field Model of Consumption Inertia and Keeping Up with the Joneses](https://arxiv.org/pdf/2610.16019)
@@ -18,5 +20,3 @@
 - 2026-10-12: [Entropy Regularization under No-Shorting: Structure Preservation and Convexity in Dynamic Mean-Variance Portfolio Selection](https://arxiv.org/pdf/2610.13162)
 - 2026-10-09: [Weighted selection from elliptical distributions: a stochastic representation and an application to portfolio separation](https://arxiv.org/pdf/2610.11822)
 - 2026-10-08: [Conditional value-at-risk under reward-penalty mechanism with applications to robust portfolio management](https://arxiv.org/pdf/2610.09246)
-- 2026-10-08: [OOM-RL II: Reality Is an Oracle, Not a Debugger Provenance-Constrained Diagnosis in Continually Evolving Agent-Engineered Systems](https://arxiv.org/pdf/2610.10256)
-- 2026-10-08: [SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions](https://arxiv.org/pdf/2610.10407)
