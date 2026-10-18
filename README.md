@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-17 22:00)
+## Latest 20 publications (as of 2026-10-18 10:00)
 
 - 2026-10-16: [Loss-versus-rebalancing with external proportional transaction costs](https://arxiv.org/pdf/2610.21057)
 - 2026-10-15: [Data-Driven Dynamic Portfolio Selection with Vine Copula Simulation and Reinforcement Learning](https://arxiv.org/pdf/2610.20037)
