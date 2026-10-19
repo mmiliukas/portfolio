@@ -1,5 +1,7 @@
-## Latest 20 publications (as of 2026-10-18 22:00)
+## Latest 20 publications (as of 2026-10-19 10:00)
 
+- 2026-10-19: [Reading the News Without Hindsight: NoLBERT Topics and the Cross-Section of Stock Returns](https://arxiv.org/pdf/2610.22745)
+- 2026-10-19: [From Alpha to Execution: Trading Horizons, Regimes, and Schedules under Concave Impact and Hurst Scaling](https://arxiv.org/pdf/2610.23749)
 - 2026-10-16: [Loss-versus-rebalancing with external proportional transaction costs](https://arxiv.org/pdf/2610.21057)
 - 2026-10-15: [Data-Driven Dynamic Portfolio Selection with Vine Copula Simulation and Reinforcement Learning](https://arxiv.org/pdf/2610.20037)
 - 2026-10-15: [Active Portfolio Management in Concentrated Equity Markets](https://arxiv.org/pdf/2609.27113)
@@ -18,5 +20,3 @@
 - 2026-10-13: [Portfolio Decarbonization under Incomplete Carbon and Transition Information](https://arxiv.org/pdf/2610.18332v1)
 - 2026-10-13: [On integrability of local utility maximizing strategies](https://arxiv.org/pdf/2610.17915v1)
 - 2026-10-12: [Entropy Regularization under No-Shorting: Structure Preservation and Convexity in Dynamic Mean-Variance Portfolio Selection](https://arxiv.org/pdf/2610.13162)
-- 2026-10-09: [Weighted selection from elliptical distributions: a stochastic representation and an application to portfolio separation](https://arxiv.org/pdf/2610.11822)
-- 2026-10-08: [Conditional value-at-risk under reward-penalty mechanism with applications to robust portfolio management](https://arxiv.org/pdf/2610.09246)
