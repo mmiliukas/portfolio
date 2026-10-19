@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-19 10:00)
+## Latest 20 publications (as of 2026-10-19 22:00)
 
 - 2026-10-19: [Reading the News Without Hindsight: NoLBERT Topics and the Cross-Section of Stock Returns](https://arxiv.org/pdf/2610.22745)
 - 2026-10-19: [From Alpha to Execution: Trading Horizons, Regimes, and Schedules under Concave Impact and Hurst Scaling](https://arxiv.org/pdf/2610.23749)
