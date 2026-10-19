@@ -1533,5 +1533,15 @@
     "pubDate": "2026-10-15",
     "title": "Loss-versus-rebalancing with external proportional transaction costs",
     "link": "https://arxiv.org/pdf/2610.21057v1"
+  },
+  {
+    "pubDate": "2026-10-19",
+    "title": "Reading the News Without Hindsight: NoLBERT Topics and the Cross-Section of Stock Returns",
+    "link": "https://arxiv.org/pdf/2610.22745"
+  },
+  {
+    "pubDate": "2026-10-19",
+    "title": "From Alpha to Execution: Trading Horizons, Regimes, and Schedules under Concave Impact and Hurst Scaling",
+    "link": "https://arxiv.org/pdf/2610.23749"
   }
 ]
