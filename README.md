@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-20 10:00)
+## Latest 20 publications (as of 2026-10-20 22:00)
 
 - 2026-10-20: [Rachev-Ratio Portfolio Optimization with TimeGAN Scenarios: Replacement versus Supplementation](https://arxiv.org/pdf/2610.24544)
 - 2026-10-20: [Regime-Aware Interpretable Ranking for Sector Rotation](https://arxiv.org/pdf/2610.26456)
