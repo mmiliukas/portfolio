@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-21 10:00)
+## Latest 20 publications (as of 2026-10-21 22:00)
 
 - 2026-10-21: [Market Regime-Based Multi-Asset Portfolio Optimization Using Nested Clustered Optimization for Tactical Asset Allocation](https://arxiv.org/pdf/2610.27751)
 - 2026-10-21: [Dynamic portfolio selection under range value-at-risk with logarithmic returns](https://arxiv.org/pdf/2610.26919)
