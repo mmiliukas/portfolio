@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-25 10:00)
+## Latest 20 publications (as of 2026-10-25 22:00)
 
 - 2026-10-23: [Directionally Correct Views in Portfolio Optimization](https://arxiv.org/pdf/2610.31074)
 - 2026-10-23: [Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core](https://arxiv.org/pdf/2610.30557)
