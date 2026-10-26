@@ -1618,5 +1618,15 @@
     "pubDate": "2026-10-22",
     "title": "Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core",
     "link": "https://arxiv.org/pdf/2610.30557v1"
+  },
+  {
+    "pubDate": "2026-10-26",
+    "title": "Optimal collective investment under regulatory uncertainty",
+    "link": "https://arxiv.org/pdf/2610.32959"
+  },
+  {
+    "pubDate": "2026-10-26",
+    "title": "Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading",
+    "link": "https://arxiv.org/pdf/2610.32237"
   }
 ]
