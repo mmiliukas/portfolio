@@ -1,5 +1,7 @@
-## Latest 20 publications (as of 2026-10-25 22:00)
+## Latest 20 publications (as of 2026-10-26 10:00)
 
+- 2026-10-26: [Optimal collective investment under regulatory uncertainty](https://arxiv.org/pdf/2610.32959)
+- 2026-10-26: [Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/pdf/2610.32237)
 - 2026-10-23: [Directionally Correct Views in Portfolio Optimization](https://arxiv.org/pdf/2610.31074)
 - 2026-10-23: [Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core](https://arxiv.org/pdf/2610.30557)
 - 2026-10-23: [When News Gets Old: Portfolio Allocation with Reinforcement Learning and Large Language Models](https://arxiv.org/pdf/2610.30564)
@@ -18,5 +20,3 @@
 - 2026-10-19: [From Alpha to Execution: Trading Horizons, Regimes, and Schedules under Concave Impact and Hurst Scaling](https://arxiv.org/pdf/2610.23749)
 - 2026-10-19: [Regime-Aware Interpretable Ranking for Sector Rotation](https://arxiv.org/pdf/2610.26456v1)
 - 2026-10-16: [Loss-versus-rebalancing with external proportional transaction costs](https://arxiv.org/pdf/2610.21057)
-- 2026-10-15: [Data-Driven Dynamic Portfolio Selection with Vine Copula Simulation and Reinforcement Learning](https://arxiv.org/pdf/2610.20037)
-- 2026-10-15: [Active Portfolio Management in Concentrated Equity Markets](https://arxiv.org/pdf/2609.27113)
