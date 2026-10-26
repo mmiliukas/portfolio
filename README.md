@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-26 10:00)
+## Latest 20 publications (as of 2026-10-26 22:00)
 
 - 2026-10-26: [Optimal collective investment under regulatory uncertainty](https://arxiv.org/pdf/2610.32959)
 - 2026-10-26: [Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/pdf/2610.32237)
