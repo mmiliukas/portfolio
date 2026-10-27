@@ -1628,5 +1628,20 @@
     "pubDate": "2026-10-26",
     "title": "Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading",
     "link": "https://arxiv.org/pdf/2610.32237"
+  },
+  {
+    "pubDate": "2026-10-27",
+    "title": "Certifying Reward Alignment in Portfolio Reinforcement Learning",
+    "link": "https://arxiv.org/pdf/2610.34153"
+  },
+  {
+    "pubDate": "2026-10-27",
+    "title": "Optimal portfolio choice under green transition timing risk",
+    "link": "https://arxiv.org/pdf/2610.33597"
+  },
+  {
+    "pubDate": "2026-10-27",
+    "title": "Bayesian Parametric Portfolio Policies",
+    "link": "https://arxiv.org/pdf/2602.21173"
   }
 ]
