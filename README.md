@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-27 10:00)
+## Latest 20 publications (as of 2026-10-27 22:00)
 
 - 2026-10-27: [Certifying Reward Alignment in Portfolio Reinforcement Learning](https://arxiv.org/pdf/2610.34153)
 - 2026-10-27: [Optimal portfolio choice under green transition timing risk](https://arxiv.org/pdf/2610.33597)
