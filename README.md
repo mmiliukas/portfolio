@@ -1,5 +1,8 @@
-## Latest 20 publications (as of 2026-10-26 22:00)
+## Latest 20 publications (as of 2026-10-27 10:00)
 
+- 2026-10-27: [Certifying Reward Alignment in Portfolio Reinforcement Learning](https://arxiv.org/pdf/2610.34153)
+- 2026-10-27: [Optimal portfolio choice under green transition timing risk](https://arxiv.org/pdf/2610.33597)
+- 2026-10-27: [Bayesian Parametric Portfolio Policies](https://arxiv.org/pdf/2602.21173)
 - 2026-10-26: [Optimal collective investment under regulatory uncertainty](https://arxiv.org/pdf/2610.32959)
 - 2026-10-26: [Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/pdf/2610.32237)
 - 2026-10-23: [Directionally Correct Views in Portfolio Optimization](https://arxiv.org/pdf/2610.31074)
@@ -17,6 +20,3 @@
 - 2026-10-20: [When Values-Based Screens Disagree: Continuous Shariah Compliance and Classification Dynamics](https://arxiv.org/pdf/2512.22858)
 - 2026-10-20: [Market Regime-Based Multi-Asset Portfolio Optimization Using Nested Clustered Optimization for Tactical Asset Allocation](https://arxiv.org/pdf/2610.27751v1)
 - 2026-10-19: [Reading the News Without Hindsight: NoLBERT Topics and the Cross-Section of Stock Returns](https://arxiv.org/pdf/2610.22745)
-- 2026-10-19: [From Alpha to Execution: Trading Horizons, Regimes, and Schedules under Concave Impact and Hurst Scaling](https://arxiv.org/pdf/2610.23749)
-- 2026-10-19: [Regime-Aware Interpretable Ranking for Sector Rotation](https://arxiv.org/pdf/2610.26456v1)
-- 2026-10-16: [Loss-versus-rebalancing with external proportional transaction costs](https://arxiv.org/pdf/2610.21057)
