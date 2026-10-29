@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-28 22:00)
+## Latest 20 publications (as of 2026-10-29 10:00)
 
 - 2026-10-28: [Simple Portfolios that Deliver Consistent Decent Returns](https://arxiv.org/pdf/2610.36491)
 - 2026-10-27: [Certifying Reward Alignment in Portfolio Reinforcement Learning](https://arxiv.org/pdf/2610.34153)
