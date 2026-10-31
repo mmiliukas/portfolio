@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-10-30 22:00)
+## Latest 20 publications (as of 2026-10-31 10:00)
 
 - 2026-10-30: [The Generalised Kessler Syndrome and the Persian Gulf](https://arxiv.org/pdf/2610.40129)
 - 2026-10-30: [Decorrelating the Advice Layer: A Calibrated Fragility Metric and Tested Mitigations for Synchronized Liquidation in Agentic Wealth Management](https://arxiv.org/pdf/2610.37705)
