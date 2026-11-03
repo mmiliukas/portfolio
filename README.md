@@ -1,5 +1,8 @@
-## Latest 20 publications (as of 2026-11-02 22:00)
+## Latest 20 publications (as of 2026-11-03 10:00)
 
+- 2026-11-02: [Penalize the Common Trade: A Collision-Aware Layer for Learned Portfolios](https://arxiv.org/pdf/2611.03453v1)
+- 2026-11-02: [Specification LASSO and a Flexible Characteristics-Based Asset Pricing Model](https://arxiv.org/pdf/2611.03391v1)
+- 2026-11-02: [Interpretable Allocation and Model-Predictive Rebalancing of Equity Portfolios, Tested on Real and Synthetic Markets](https://arxiv.org/pdf/2611.03022v1)
 - 2026-10-30: [The Generalised Kessler Syndrome and the Persian Gulf](https://arxiv.org/pdf/2610.40129)
 - 2026-10-30: [Decorrelating the Advice Layer: A Calibrated Fragility Metric and Tested Mitigations for Synchronized Liquidation in Agentic Wealth Management](https://arxiv.org/pdf/2610.37705)
 - 2026-10-30: [Sparse Autoencoders as Implicit Diversification Regularisers for Cross-Sectional Cryptocurrency Returns](https://arxiv.org/pdf/2610.39205)
@@ -17,6 +20,3 @@
 - 2026-10-23: [Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core](https://arxiv.org/pdf/2610.30557)
 - 2026-10-23: [When News Gets Old: Portfolio Allocation with Reinforcement Learning and Large Language Models](https://arxiv.org/pdf/2610.30564)
 - 2026-10-22: [Directionally Correct Views in Portfolio Optimization](https://arxiv.org/pdf/2610.31074v1)
-- 2026-10-22: [When News Gets Old: Portfolio Allocation with Reinforcement Learning and Large Language Models](https://arxiv.org/pdf/2610.30564v1)
-- 2026-10-22: [Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core](https://arxiv.org/pdf/2610.30557v1)
-- 2026-10-21: [Market Regime-Based Multi-Asset Portfolio Optimization Using Nested Clustered Optimization for Tactical Asset Allocation](https://arxiv.org/pdf/2610.27751)
