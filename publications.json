@@ -1698,5 +1698,30 @@
     "pubDate": "2026-11-02",
     "title": "Interpretable Allocation and Model-Predictive Rebalancing of Equity Portfolios, Tested on Real and Synthetic Markets",
     "link": "https://arxiv.org/pdf/2611.03022v1"
+  },
+  {
+    "pubDate": "2026-11-03",
+    "title": "Non-asymptotic analysis of SGLD with discontinuous stochastic gradients: a new route to portfolio CVaR minimization",
+    "link": "https://arxiv.org/pdf/2611.00578"
+  },
+  {
+    "pubDate": "2026-11-03",
+    "title": "Optimal portfolio and consumption under no-shorting constraints: The exploratory formulation and reinforcement learning",
+    "link": "https://arxiv.org/pdf/2611.00700"
+  },
+  {
+    "pubDate": "2026-11-03",
+    "title": "Interpretable Allocation and Model-Predictive Rebalancing of Equity Portfolios, Tested on Real and Synthetic Markets",
+    "link": "https://arxiv.org/pdf/2611.03022"
+  },
+  {
+    "pubDate": "2026-11-03",
+    "title": "Penalize the Common Trade: A Collision-Aware Layer for Learned Portfolios",
+    "link": "https://arxiv.org/pdf/2611.03453"
+  },
+  {
+    "pubDate": "2026-11-03",
+    "title": "Specification LASSO and a Flexible Characteristics-Based Asset Pricing Model",
+    "link": "https://arxiv.org/pdf/2611.03391"
   }
 ]
