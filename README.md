@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-11-04 10:00)
+## Latest 20 publications (as of 2026-11-04 22:00)
 
 - 2026-11-04: [Mitigating Return Drag and Regime Whipsaws in Sector Rotation: An Asymmetric Downside-Aware Nested Clustered Optimization Framework](https://arxiv.org/pdf/2611.05310)
 - 2026-11-04: [Safe Portfolio Learning from Untrusted Predictions: Signed Trust, Abstention, and Cross-Universe Polarity Failure](https://arxiv.org/pdf/2611.04826)
