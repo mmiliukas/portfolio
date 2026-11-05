@@ -1,7 +1,9 @@
-## Latest 20 publications (as of 2026-11-04 22:00)
+## Latest 20 publications (as of 2026-11-05 10:00)
 
+- 2026-11-05: [Constrained defined-contribution pension management: A reparameterized neural network approach](https://arxiv.org/pdf/2611.06495)
 - 2026-11-04: [Mitigating Return Drag and Regime Whipsaws in Sector Rotation: An Asymmetric Downside-Aware Nested Clustered Optimization Framework](https://arxiv.org/pdf/2611.05310)
 - 2026-11-04: [Safe Portfolio Learning from Untrusted Predictions: Signed Trust, Abstention, and Cross-Universe Polarity Failure](https://arxiv.org/pdf/2611.04826)
+- 2026-11-04: [Constrained defined-contribution pension management: A reparameterized neural network approach](https://arxiv.org/pdf/2611.06495v1)
 - 2026-11-03: [Non-asymptotic analysis of SGLD with discontinuous stochastic gradients: a new route to portfolio CVaR minimization](https://arxiv.org/pdf/2611.00578)
 - 2026-11-03: [Optimal portfolio and consumption under no-shorting constraints: The exploratory formulation and reinforcement learning](https://arxiv.org/pdf/2611.00700)
 - 2026-11-03: [Interpretable Allocation and Model-Predictive Rebalancing of Equity Portfolios, Tested on Real and Synthetic Markets](https://arxiv.org/pdf/2611.03022)
@@ -18,5 +20,3 @@
 - 2026-10-30: [Dynamic Strategy Selection](https://arxiv.org/pdf/2307.04754)
 - 2026-10-29: [The Generalised Kessler Syndrome and the Persian Gulf](https://arxiv.org/pdf/2610.40129v1)
 - 2026-10-29: [Sparse Autoencoders as Implicit Diversification Regularisers for Cross-Sectional Cryptocurrency Returns](https://arxiv.org/pdf/2610.39205v1)
-- 2026-10-28: [Simple Portfolios that Deliver Consistent Decent Returns](https://arxiv.org/pdf/2610.36491)
-- 2026-10-27: [Certifying Reward Alignment in Portfolio Reinforcement Learning](https://arxiv.org/pdf/2610.34153)
