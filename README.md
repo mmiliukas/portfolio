@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-11-05 10:00)
+## Latest 20 publications (as of 2026-11-05 22:00)
 
 - 2026-11-05: [Constrained defined-contribution pension management: A reparameterized neural network approach](https://arxiv.org/pdf/2611.06495)
 - 2026-11-04: [Mitigating Return Drag and Regime Whipsaws in Sector Rotation: An Asymmetric Downside-Aware Nested Clustered Optimization Framework](https://arxiv.org/pdf/2611.05310)
