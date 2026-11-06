@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-11-06 10:00)
+## Latest 20 publications (as of 2026-11-06 22:00)
 
 - 2026-11-06: [Return Decomposition of Hybrid Strategies in the Brazilian Market: Evidence of Genuine Alpha and Factor Exposure](https://arxiv.org/pdf/2611.06919)
 - 2026-11-05: [Constrained defined-contribution pension management: A reparameterized neural network approach](https://arxiv.org/pdf/2611.06495)
