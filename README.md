@@ -1,5 +1,6 @@
-## Latest 20 publications (as of 2026-11-05 22:00)
+## Latest 20 publications (as of 2026-11-06 10:00)
 
+- 2026-11-06: [Return Decomposition of Hybrid Strategies in the Brazilian Market: Evidence of Genuine Alpha and Factor Exposure](https://arxiv.org/pdf/2611.06919)
 - 2026-11-05: [Constrained defined-contribution pension management: A reparameterized neural network approach](https://arxiv.org/pdf/2611.06495)
 - 2026-11-04: [Mitigating Return Drag and Regime Whipsaws in Sector Rotation: An Asymmetric Downside-Aware Nested Clustered Optimization Framework](https://arxiv.org/pdf/2611.05310)
 - 2026-11-04: [Safe Portfolio Learning from Untrusted Predictions: Signed Trust, Abstention, and Cross-Universe Polarity Failure](https://arxiv.org/pdf/2611.04826)
@@ -19,4 +20,3 @@
 - 2026-10-30: [Sparse Autoencoders as Implicit Diversification Regularisers for Cross-Sectional Cryptocurrency Returns](https://arxiv.org/pdf/2610.39205)
 - 2026-10-30: [Dynamic Strategy Selection](https://arxiv.org/pdf/2307.04754)
 - 2026-10-29: [The Generalised Kessler Syndrome and the Persian Gulf](https://arxiv.org/pdf/2610.40129v1)
-- 2026-10-29: [Sparse Autoencoders as Implicit Diversification Regularisers for Cross-Sectional Cryptocurrency Returns](https://arxiv.org/pdf/2610.39205v1)
