@@ -1,4 +1,4 @@
-## Latest 20 publications (as of 2026-11-10 10:00)
+## Latest 20 publications (as of 2026-11-10 22:00)
 
 - 2026-11-09: [The Logic of Factor Portfolios: Boolean Rules, Interactions, and Trading Costs](https://arxiv.org/pdf/2611.09834)
 - 2026-11-09: [Price-Volume Correlations Are Always Zero](https://arxiv.org/pdf/2611.08528)
