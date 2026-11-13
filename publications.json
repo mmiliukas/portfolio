@@ -1768,5 +1768,40 @@
     "pubDate": "2026-11-09",
     "title": "Price-Volume Correlations Are Always Zero",
     "link": "https://arxiv.org/pdf/2611.08528"
+  },
+  {
+    "pubDate": "2026-11-13",
+    "title": "Conformal Risk Certificates for Portfolio Optimization Under Uncertainty: A Gated Reinforcement-Learning Approach",
+    "link": "https://arxiv.org/pdf/2611.14699"
+  },
+  {
+    "pubDate": "2026-11-13",
+    "title": "Idiosyncratic Market Effects in Global Time Series Momentum",
+    "link": "https://arxiv.org/pdf/2611.15646"
+  },
+  {
+    "pubDate": "2026-11-13",
+    "title": "Global Seasonality Factor Investing",
+    "link": "https://arxiv.org/pdf/2611.15657"
+  },
+  {
+    "pubDate": "2026-11-13",
+    "title": "Dynamic Scenario-Based Portfolio Optimization for Multi-Asset ETFs",
+    "link": "https://arxiv.org/pdf/2611.16540"
+  },
+  {
+    "pubDate": "2026-11-13",
+    "title": "Aproximaci\\'on pr\\'actica a los m\\'etodos de selecci\\'on de portafolios de inversi\\'on",
+    "link": "https://arxiv.org/pdf/2410.11070"
+  },
+  {
+    "pubDate": "2026-11-13",
+    "title": "Mean--Variance Portfolio Selection by Continuous-Time Reinforcement Learning: Algorithms, Regret Analysis, and Empirical Study",
+    "link": "https://arxiv.org/pdf/2412.16175"
+  },
+  {
+    "pubDate": "2026-11-12",
+    "title": "Dynamic Scenario-Based Portfolio Optimization for Multi-Asset ETFs",
+    "link": "https://arxiv.org/pdf/2611.16540v1"
   }
 ]
